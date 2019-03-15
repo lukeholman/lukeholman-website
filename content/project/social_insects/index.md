@@ -34,4 +34,4 @@ highlight = true
 
 +++
 
-To be continued....
+The eusocial insects (e.g. bees, ants, wasps, and termites) are united by a remakable trait: some individuals give up the opportunity to reproduce, and instead acts as helpers to enhance the reproduction of other individuals. I am interested in how and why the social insect 'caste system' of queens and workers evolved, and how evolution has shaped their biology. I am especially interested in the role of queen pheromones in evolution and colony life.
