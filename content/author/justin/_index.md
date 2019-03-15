@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Justin's MSc project looked at whether sexual selection has a net positive or negative effect on the fitness of populations, using meta-analysis and comparative analysis."
+    "Justin and I looked at whether sexual selection has a net positive or negative effect on the fitness of populations, using meta-analysis and comparative analysis."
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -61,20 +61,20 @@ user_groups = ["Alumni"]
 #   icon_pack = "fas"
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 # 
-# [[social]]
-#   icon = "twitter"
-#   icon_pack = "fab"
-#   link = "https://twitter.com/GeorgeCushen"
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/Jcal1"
 # 
 # [[social]]
 #   icon = "google-scholar"
 #   icon_pack = "ai"
 #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 # 
-# [[social]]
-#   icon = "github"
-#   icon_pack = "fab"
-#   link = "https://github.com/gcushen"
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/justincally"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

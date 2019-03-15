@@ -9,21 +9,21 @@ authors = ["tom"]
 superuser = false
 
 # Role/position
-role = "Grad student"
+role = "MSc student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Melbourne", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Daisy's bio here."
+bio = "Tom's bio here."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Tom's MSc project examined the male mitochondria, and tested whether the mitochondrial genome of males is truly invisible to selection."
+    "Tom worked me to determine if the effects of mitochondrial DNA can extend to social partners as well as the individual carrying the mtNDA, which might rescue males from 'mother's curse'."
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -61,10 +61,10 @@ user_groups = ["Alumni"]
 #   icon_pack = "fas"
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 # 
-# [[social]]
-#   icon = "twitter"
-#   icon_pack = "fab"
-#   link = "https://twitter.com/GeorgeCushen"
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/tom_is_kean"
 # 
 # [[social]]
 #   icon = "google-scholar"
