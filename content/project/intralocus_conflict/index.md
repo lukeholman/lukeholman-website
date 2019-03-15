@@ -30,9 +30,8 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 
 +++
 
-Text will come here...
-
+Intralocus sexual conflict occurs when different trait values are favoured by selection on males versus females, but each sex is constrained from evolving towards its own phenotypic optimum by genetic correlations between male and female traits. For example, the selectively optimum body size is often different between the sexes, yet male and female body size are largely affected by the same loci, meaning that the sexes evolve to some sort of maladaptive compromise (creating the so-called 'gender load'). Intralocus sexual conflict is a fascinating process with many improlications for conservation biology, as well as many of the big questions in evolutionary biology (such as the evolution of sex problem and the lek paradox).
