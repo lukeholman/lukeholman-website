@@ -19,7 +19,7 @@ organizations = [ { name = "University of Melbourne", url = "" } ]
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "lukeholman@gmail.com"
+email = ""
 
 # List (academic) interests or hobbies
 interests = [
@@ -33,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = "" # ["Researchers", "Visitors"]
+user_groups = "" 
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -90,4 +90,4 @@ user_groups = "" # ["Researchers", "Visitors"]
 
 +++
 
-I'm a lecturer in the School of BioSciences at the University of Melbourne. I mostly study the evolution and genetics of sex, sociality and communication. I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps) with theoretical models, 'omics, meta-analysis, and text mining. I am a handling editor for _[Behavioral Ecology](https://academic.oup.com/beheco)_, and the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_. I'm a big fan of open and reproducible science, and so I often write detailed reports [like this](https://lukeholman.github.io/queen-pheromone-RNAseq/) to help share my methods.
+I'm a lecturer in the [School of BioSciences](https://biosciences.unimelb.edu.au/) at the University of Melbourne. I mostly study the evolution and genetics of sex, sociality and communication. I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps) with theoretical models, 'omics, meta-analysis, and text mining. I am a handling editor for _[Behavioral Ecology](https://academic.oup.com/beheco)_, and the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_. I'm a big fan of open and reproducible science, and so I often write detailed reports [like this](https://lukeholman.github.io/queen-pheromone-RNAseq/) to help share my methods.
