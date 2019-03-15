@@ -21,6 +21,9 @@ googleAnalytics = ""
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
+# Link to Luke's custom CSS file, which has the theme colours
+custom_css = ["luke-css.css"]
+
 ############################
 ## Advanced options below ##
 ############################
