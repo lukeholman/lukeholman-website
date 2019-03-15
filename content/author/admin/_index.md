@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Luke Holman"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,26 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Senior Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Melbourne", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Luke's bio here."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "lukeholman@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+    "Evolution, selection, and adaptation",
+    "Sexual selection and sexual conflict",
+    "Social insects",
+    "Gene drives, both natural and synthetic",
+    "Biological signals, particularly queen pheromones",
+    "Science about science"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +37,24 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
+  course = "Senior lecturer"
+  institution = "University of Melbourne"
+  year = "2016-present"
+  
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
+  course = "DECRA fellow and postdoc"
+  institution = "Australian National University"
+  year = "2011-2016"
+  
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Marie Curie Fellow and postdoc"
+  institution = "University of Copenhagen"
+  year = "2008-2011"
+  
+[[education.courses]]
+  course = "BSc and PhD"
+  institution = "University of Sheffield"
+  year = "2000-2007"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -82,6 +90,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a lecturer in the School of BioSciences at the University of Melbourne. I mostly research the evolution and genetics of sex, sociality and communication, and I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps), with theoretical models, 'omics, meta-analysis, and text mining. I am a handling editor for _[Behavioral Ecology](https://academic.oup.com/beheco)_, and the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Click [here](https://www.lukeholman.org/publication/) for a list of my papers, or click the projects below to see papers grouped by topics.

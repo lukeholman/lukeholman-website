@@ -4,7 +4,7 @@
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
@@ -66,5 +66,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Browse [all my publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
