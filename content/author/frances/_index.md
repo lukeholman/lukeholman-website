@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Frances ran a big experimental evolution study on flour beetles, which showed that sexual selection affects the evolution of pesticide resistance. We also used quantitative genetics to test whether the gender load diminishes under environmental stress."
+    "Frances used experimental evolution to show that sexual selection can affect the evolution of insecticide resistance. We also used quantitative genetics to test whether the gender load diminishes under environmental stress."
 ]
 
 # Organizational groups that you belong to (for People widget)
