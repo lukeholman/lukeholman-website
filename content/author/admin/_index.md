@@ -90,6 +90,4 @@ user_groups = "" # ["Researchers", "Visitors"]
 
 +++
 
-I'm a lecturer in the School of BioSciences at the University of Melbourne. I mostly research the evolution and genetics of sex, sociality and communication, and I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps), with theoretical models, 'omics, meta-analysis, and text mining. I am a handling editor for _[Behavioral Ecology](https://academic.oup.com/beheco)_, and the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_.
-
-Click [here](https://www.lukeholman.org/publication/) for a list of my papers, or click the projects below to see papers grouped by topics.
+I'm a lecturer in the School of BioSciences at the University of Melbourne. I mostly study the evolution and genetics of sex, sociality and communication. I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps) with theoretical models, 'omics, meta-analysis, and text mining. I am a handling editor for _[Behavioral Ecology](https://academic.oup.com/beheco)_, and the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_. I'm a big fan of open and reproducible science, and so I often write detailed reports [like this](https://lukeholman.github.io/queen-pheromone-RNAseq/) to help share my methods.
