@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Tom worked me to determine if the effects of mitochondrial DNA can extend to social partners as well as the individual carrying the mtNDA, which might rescue males from 'mother's curse'."
+    "Tom worked to determine if the effects of mitochondrial DNA can extend to social partners as well as the individual carrying the mtNDA, which might rescue males from 'mother's curse'."
 ]
 
 # Organizational groups that you belong to (for People widget)
