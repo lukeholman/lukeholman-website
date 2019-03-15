@@ -16,7 +16,7 @@ role = "Senior Lecturer"
 organizations = [ { name = "University of Melbourne", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Luke's bio here."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lukeholman@gmail.com"
