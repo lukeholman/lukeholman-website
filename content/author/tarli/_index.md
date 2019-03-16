@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Tarli is doing her honours project with me on social immunity and chemical reconigtion in honeybees."
+    "Tarli is working on her honours, conducting a project on social immunity and chemical recognition in honeybees."
 ]
 
 # Organizational groups that you belong to (for People widget)
