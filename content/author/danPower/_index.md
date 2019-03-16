@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Dan tested how polyandry affects population viability in seed beetles (_Callosobruchus maculatus_), and tested how well sexual selection can clear harmful mutations from the gene pool."
+    "Dan found that polyandry helps beetles colonise new habitats, and tested how well sexual selection clears harmful mutations from the gene pool."
 ]
 
 # Organizational groups that you belong to (for People widget)

@@ -65,9 +65,16 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "RNAseq_pheromones.png"
-caption = "Queen pheromones have broadly similar effects on the transcriptome in two ant species and two bee species."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "Queen pheromones have broadly similar effects on the transcriptome in two ant species and two bee species."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
+  
+  # Show image only in page previews?
+  preview_only = false
 
 +++

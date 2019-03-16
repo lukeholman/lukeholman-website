@@ -65,9 +65,16 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "homophilly.png"
-caption = "Journals with a larger excess of same-gender collaborations tend to have lower impact factors."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "Journals with a larger excess of same-gender collaborations tend to have lower impact factors."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "BottomLeft"
+  
+  # Show image only in page previews?
+  preview_only = false
 
 +++

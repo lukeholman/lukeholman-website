@@ -39,7 +39,7 @@ url_dataset = "https://osf.io/bt9ya/"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "https://lukeholman.github.io/genderGap/"
+url_poster = ""
 url_source = ""
 
 # Custom links (optional).
@@ -53,9 +53,16 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "gender_img.png"
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "[Interative web tool showing the changing gender ratio of >100 STEM fields](https://lukeholman.github.io/genderGap/)."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "TopLeft"
+  
+  # Show image only in page previews?
+  preview_only = false
 
 +++

@@ -64,10 +64,19 @@ math = false
 # Does this page require source code highlighting? (true/false)
 highlight = true
 
+
+
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "justin_bird.png"
-caption = "A gorgeous bird from Sulawesi. Photo: Justin Cally, used with permission. [Click to visit Justin's Flickr](https://www.flickr.com/photos/137459769@N03)."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "A whiskered treeswift photographed by Justin ([visit Justin's Flickr](https://www.flickr.com/photos/137459769@N03))."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
+  
+  # Show image only in page previews?
+  preview_only = false
 
 +++
