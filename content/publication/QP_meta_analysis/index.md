@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/ary023/4989470"
+url_pdf = ""
 url_preprint = ""
 url_code = "https://lukeholman.github.io/pheromoneMetaAnalysis/"
 url_dataset = "http://dx.doi.org/10.17605/OSF.IO/UBHPQ"

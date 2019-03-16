@@ -23,7 +23,8 @@ publication_short = "Nature Comms"
 
 # Abstract and optional shortened version.
 abstract = "Sexual selection has manifold ecological and evolutionary consequences, making its net effect on population fitness difficult to predict from first principles. Instead, one can empirically determine whether sexual selection increases or decreases population fitness by  manipulating the opportunity for sexual selection in replicate populations, allow evolution to proceed, and then compare the evolved average fitness between the treatment groups. Here, we synthesise 459 effect sizes from 65 pertinent experimental evolution studies using meta-analysis. We find that sexual selection on males tends to elevate the mean and reduce the variance for many fitness traits, especially in females, and for populations evolving under stressful conditions. We conclude that the beneficial population-level consequences of sexual selection typically outweigh the harmful ones and that the effects of sexual selection on total selection, genetic variance, and/or evolvability can differ markedly between sexes and environments. We discuss the implications of these results for conservation and evolutionary biology."
-abstract_short = ""
+
+summary = "We synthesised 459 effect sizes from 65 pertinent experimental evolution studies using meta-analysis, and found that sexual selection on males tends to elevate the mean and reduce the variance for many fitness traits. The beneficial effect was stronger in female traits than males, and for populations evolving under stressful conditions. The results have implications for conservation and captive breeding programs."
 
 # Featured image thumbnail (optional)
 image_preview = ""

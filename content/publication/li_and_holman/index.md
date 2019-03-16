@@ -10,7 +10,8 @@ publication_short = "Phil Trans B"
 
 # Abstract and optional shortened version.
 abstract = "In many species, females are hypothesised to obtain 'good genes' for their offspring by mating with males in good condition. However, female preferences might deplete genetic variance and make choice redundant. Additionally, high-condition males sometime produce low-fitness offspring, for example because of environmental turnover and gene-by-environment interactions (GEIs) for fitness, or because fit males carry sexually-antagonistic alleles causing them to produce unfit daughters. Here, we extend previous theory by investigating the evolution of female mate choice in a spatially explicit evolutionary simulation implementing both GEIs and intralocus sexual conflict (IASC), under sex-specific hard or soft selection. We show that IASC can weaken female preferences for high-condition males or even cause a preference for males in low condition, depending on the relative benefits of producing well-adapted sons versus daughters, which in turn depends on the relative hardness of selection on males and females. We discuss the relevance of our results to conservation genetics and empirical evolutionary biology."
-abstract_short = "We use theoretical models to examine the evolution of female choice when there is both intralocus sexual conflict and local adaptation."
+
+summary = "We use theoretical models to examine the evolution of female choice when there is both intralocus sexual conflict and local adaptation. We show that IASC can weaken female preferences for high-condition males -- or even cause a preference for males in low condition -- depending on the relative benefits of producing well-adapted sons versus daughters. We discuss the relevance of our results to conservation genetics and empirical evolutionary biology."
 
 # Featured image thumbnail (optional)
 image_preview = ""
