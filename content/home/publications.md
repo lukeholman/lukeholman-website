@@ -66,5 +66,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Browse [all publications]({{< ref "/publication/_index.md" >}}).
+[Browse all]({{< ref "/publication/_index.md" >}}) or visit [Google Scholar](https://scholar.google.com.au/citations?user=9WXgCXUAAAAJ&hl=en).
 {{% /alert %}}
