@@ -23,10 +23,11 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "The evolution of insecticide resistance by crop pests and disease vectors causes serious problems for agriculture and health. Sexual selection can accelerate or hinder adaptation to abiotic challenges in a variety of ways, but the effect of sexual selection on resistance evolution is little studied. Here, we examine this question using experimental evolution in the pest insect _Tribolium castaneum_. The experimental removal of sexual selection slowed the evolution of resistance in populations treated with pyrethroid pesticide, and also reduced the rate at which resistance was lost from pesticide-free populations. These results suggest that selection arising from variance in mating and fertilization success can augment natural selection on pesticide resistance, meaning that sexual selection should be considered when designing strategies to limit the evolution of pesticide resistance."
-abstract_short = "Using experimental evolution, we test whether allowing or preventing sexual selection on males affects the rate at which flour beetle populations evolve resistance (and susceptibility) to insecticide."
+
+summary = "Using experimental evolution, we test whether allowing or preventing sexual selection on males affects the rate at which flour beetle populations evolve resistance (and susceptibility) to insecticide."
 
 # Featured image thumbnail (optional)
-image_preview = "pesticide.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -64,9 +65,16 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "pesticide.png"
-caption = "Level of pesticide resistance in generations 0–5 of the experimental evolution study, and in the common garden. The points show the mean ± one standard error of the four lines in each treatment. The experiment manipulated the presence/absence of sexual selection (denoted with SS+ and SS-) and insecticide (denoted P+ and P-)."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "2x2 experimental evolution design."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Top"
+  
+  # Show image only in page previews?
+  preview_only = false
 
 +++
