@@ -44,9 +44,9 @@ projects = ["gender_gap", "science_about_science"]
 tags = ["Gender gap", "Science about science"]
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2018/06/14/345975.full.pdf"
-url_preprint = "https://www.biorxiv.org/content/early/2018/06/14/345975"
-url_code = "https://github.com/lukeholman/genderHomophily"
+url_pdf = ""
+url_preprint = ""
+url_code = "https://lukeholman.github.io/genderHomophily/"
 url_dataset = ""
 url_project = ""
 url_slides = ""
