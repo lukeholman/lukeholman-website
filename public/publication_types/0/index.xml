@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Luke Holman</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2019 09:42:11 +1100</lastBuildDate>
+    
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Publication</title>
+      <link>/publication/my-publication/</link>
+      <pubDate>Fri, 15 Mar 2019 09:42:11 +1100</pubDate>
+      
+      <guid>/publication/my-publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

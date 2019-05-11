@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heikki Helanterä on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/heikki-helanter%C3%A4/</link>
+    <description>Recent content in Heikki Helanterä on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Aug 2016 18:24:21 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/heikki-helanter%C3%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Queen pheromones modulate DNA methyltransferase activity in bee and ant workers</title>
+      <link>https://www.lukeholman.org/publication/methylation_and_pheromones/</link>
+      <pubDate>Sat, 27 Aug 2016 18:24:21 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/methylation_and_pheromones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuticular chemistry of males and females in the ant Formica fusca</title>
+      <link>https://www.lukeholman.org/publication/formica_sexuals/</link>
+      <pubDate>Wed, 28 Nov 2012 16:30:15 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/formica_sexuals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

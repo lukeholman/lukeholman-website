@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timothy A. Linksvayer on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/timothy-a.-linksvayer/</link>
+    <description>Recent content in Timothy A. Linksvayer on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2013 16:24:55 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/timothy-a.-linksvayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crozier’s paradox revisited: maintenance of genetic recognition systems by disassortative mating</title>
+      <link>https://www.lukeholman.org/publication/croziers_paradox/</link>
+      <pubDate>Wed, 28 Aug 2013 16:24:55 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/croziers_paradox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic constraints on dishonesty and caste dimorphism in an ant</title>
+      <link>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</link>
+      <pubDate>Wed, 28 Aug 2013 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gender gap on Luke Holman</title>
+    <link>https://www.lukeholman.org/tags/gender-gap/</link>
+    <description>Recent content in Gender gap on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 15:49:03 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/tags/gender-gap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Researchers collaborate with same-gendered colleagues more often than expected across the life sciences</title>
+      <link>https://www.lukeholman.org/publication/homophily/</link>
+      <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/homophily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The gender gap in science: how long until women are equally represented?</title>
+      <link>https://www.lukeholman.org/publication/gender_gap/</link>
+      <pubDate>Mon, 27 Aug 2018 13:06:30 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/gender_gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The gender gap in science</title>
+      <link>https://www.lukeholman.org/project/gender_gap/</link>
+      <pubDate>Fri, 27 Apr 2018 14:03:47 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/gender_gap/</guid>
+      <description>In the 2018 PLoS Biology paper, we found that there is a striking shortage of women in many fields of science and medicine. Inspired by earlier studies that manually counted the number of men and women publishing in scientific journals, we developed computational approaches to infer the gender of 36 million authors publishing articles indexed on PubMed and ar$\chi$iv over recent decades. By applying statistical models, we projected when the gender gap will close for dozens of fields of research.</description>
+    </item>
+    
+  </channel>
+</rss>

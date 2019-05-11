@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricarda Fenske on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/ricarda-fenske/</link>
+    <description>Recent content in Ricarda Fenske on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Aug 2014 15:45:45 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/ricarda-fenske/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cuticular lipids correlate with age and insemination status in queen honeybees</title>
+      <link>https://www.lukeholman.org/publication/apis_chcs/</link>
+      <pubDate>Thu, 28 Aug 2014 15:45:45 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/apis_chcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

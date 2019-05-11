@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frances Jacomb on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/frances-jacomb/</link>
+    <description>Recent content in Frances Jacomb on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 17:28:33 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/frances-jacomb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The effects of stress and sex on selection, genetic covariance, and the evolutionary response</title>
+      <link>https://www.lukeholman.org/publication/stress_and_sex/</link>
+      <pubDate>Sun, 27 Aug 2017 17:28:33 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/stress_and_sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexual selection expedites the evolution of pesticide resistance</title>
+      <link>https://www.lukeholman.org/publication/ss_pesticide/</link>
+      <pubDate>Sat, 27 Aug 2016 19:29:27 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/ss_pesticide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

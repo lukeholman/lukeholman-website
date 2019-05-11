@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Luke Holman</title>
+    <link>https://www.lukeholman.org/project/</link>
+    <description>Recent content in Projects on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 16:40:37 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Queen pheromones</title>
+      <link>https://www.lukeholman.org/project/queen_pheromones/</link>
+      <pubDate>Tue, 28 Aug 2018 16:40:37 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/queen_pheromones/</guid>
+      <description>Queen pheromones are chemical signals produced by reproductive females, or queens, in social insects such as bees, ants, wasps, and termites. I am especially interested in queen pheromones that cause other colony members to become sterile, because reproductive division of labour is the defining &amp;ndash; and most evolutionarily striking &amp;ndash; characteristic of the social insects.
+I have been working on queen pheromones since 2008, when I conducted the first experimental bioassay to identify a queen pheromone from an ant (the black garden ant, Lasius niger).</description>
+    </item>
+    
+    <item>
+      <title>Science about science</title>
+      <link>https://www.lukeholman.org/project/science_about_science/</link>
+      <pubDate>Tue, 28 Aug 2018 13:09:44 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/science_about_science/</guid>
+      <description>I have written on &amp;lsquo;p-hacking&amp;rsquo;, the phenomenon wherby people fudge the numbers in various ways in order to get the coveted p &amp;lt; 0.05. Our work suggests that p-hacking is widespread: there are suspicious bulges in the distribution of published p-values.
+I have also written about blind methods, i.e. where the experimenter (and the subjects, if they are people) cannot identify the treatment groups, and thus consciously or unconsciously add bias.</description>
+    </item>
+    
+    <item>
+      <title>Sexual selection</title>
+      <link>https://www.lukeholman.org/project/sexual_selection/</link>
+      <pubDate>Mon, 27 Aug 2018 19:20:48 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/sexual_selection/</guid>
+      <description>I&amp;rsquo;m especially interested in understanding how sexual selection affects population mean fitness; it can bring benefits by helping to declutter the genome of mutations, yet the resulting inter- and intra-genomic conflicts that come with sexual selection can be considerable. I work on sexual selection using a combination of experiments with insects, theoretical models, quantitative genetics, and transcriptomics. I have also written about honest signalling, and during my PhD I worked mostly on the evolution of Drosophila sperm morphology.</description>
+    </item>
+    
+    <item>
+      <title>Gene drives</title>
+      <link>https://www.lukeholman.org/project/gene_drives/</link>
+      <pubDate>Mon, 27 Aug 2018 19:00:21 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/gene_drives/</guid>
+      <description>&amp;ldquo;Gene drives&amp;rdquo; are alleles that spread through populations due to within-individual selection, instead of by increasing the fitness of individuals that carry them. For example, the genetic elements t and Segregation distorter occur naturally in mice and fruitflies respectively; they are able to spread through populations despite reducing the fitness of indiviuals that carry them because they &amp;ldquo;selfishly&amp;rdquo; ensure their own transmission to ~95% of the offspring of male heterozygotes. Gene drives can work in a variety of ways, including destroying sperm cells that do not carry them, biasing meiosis in females, or gene conversion (which essentially converts drive heterozygotes into homozygotes).</description>
+    </item>
+    
+    <item>
+      <title>Intralocus sexual conflict</title>
+      <link>https://www.lukeholman.org/project/intralocus_conflict/</link>
+      <pubDate>Mon, 27 Aug 2018 17:38:27 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/intralocus_conflict/</guid>
+      <description>Intralocus sexual conflict occurs when different trait values are favoured by selection on males versus females, but each sex is constrained from evolving towards its own phenotypic optimum by genetic correlations between male and female traits. For example, the selectively optimum body size is often different between the sexes, yet male and female body size are largely affected by the same loci, meaning that the sexes evolve to some sort of maladaptive compromise (creating the so-called &amp;lsquo;gender load&amp;rsquo;).</description>
+    </item>
+    
+    <item>
+      <title>Evolution in social insects</title>
+      <link>https://www.lukeholman.org/project/social_insects/</link>
+      <pubDate>Mon, 27 Aug 2018 16:10:20 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/social_insects/</guid>
+      <description>The eusocial insects (e.g. bees, ants, wasps, and termites) are united by a remakable trait: some individuals give up the opportunity to reproduce, and instead acts as helpers to enhance the reproduction of other individuals. I am interested in how and why the social insect &amp;lsquo;caste system&amp;rsquo; of queens and workers evolved, and how evolution has shaped their biology. I am especially interested in the role of queen pheromones in evolution and colony life.</description>
+    </item>
+    
+    <item>
+      <title>The gender gap in science</title>
+      <link>https://www.lukeholman.org/project/gender_gap/</link>
+      <pubDate>Fri, 27 Apr 2018 14:03:47 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/gender_gap/</guid>
+      <description>In the 2018 PLoS Biology paper, we found that there is a striking shortage of women in many fields of science and medicine. Inspired by earlier studies that manually counted the number of men and women publishing in scientific journals, we developed computational approaches to infer the gender of 36 million authors publishing articles indexed on PubMed and ar$\chi$iv over recent decades. By applying statistical models, we projected when the gender gap will close for dozens of fields of research.</description>
+    </item>
+    
+    <item>
+      <title>Sperm</title>
+      <link>https://www.lukeholman.org/project/sperm/</link>
+      <pubDate>Fri, 29 Aug 2008 10:39:23 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/project/sperm/</guid>
+      <description>My PhD research focused on the evolution of sperm morphology, especially in the obscura sub-genus of Drosophila. These ~55 species of fruitflies are fairly unusual, in that they have two discrete sperm morphs: one is longer and is capable of fertilisation, and the other is short and apparently never fertilises eggs. My PhD tried to figure out why the flies have evolved two types of sperm when most species do fine with just one.</description>
+    </item>
+    
+  </channel>
+</rss>

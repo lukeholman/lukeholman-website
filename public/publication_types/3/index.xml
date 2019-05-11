@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Luke Holman</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 15:49:03 +1000</lastBuildDate>
+    
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Researchers collaborate with same-gendered colleagues more often than expected across the life sciences</title>
+      <link>/publication/homophily/</link>
+      <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
+      
+      <guid>/publication/homophily/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

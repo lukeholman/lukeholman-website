@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew T. Kahn on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/andrew-t.-kahn/</link>
+    <description>Recent content in Andrew T. Kahn on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2015 13:07:13 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/andrew-t.-kahn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The extent and consequences of p-hacking in science</title>
+      <link>https://www.lukeholman.org/publication/p_hacking/</link>
+      <pubDate>Fri, 28 Aug 2015 13:07:13 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/p_hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Female preferences for timing in a fiddler crab with synchronous courtship waving displays</title>
+      <link>https://www.lukeholman.org/publication/synchronous_waving/</link>
+      <pubDate>Thu, 28 Aug 2014 16:01:13 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/synchronous_waving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiddlers on the roof: elevation muddles mate choice in fiddler crabs</title>
+      <link>https://www.lukeholman.org/publication/fiddlers_roof/</link>
+      <pubDate>Thu, 28 Aug 2014 15:13:42 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/fiddlers_roof/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
