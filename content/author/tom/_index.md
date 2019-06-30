@@ -9,7 +9,7 @@ authors = ["tom"]
 superuser = false
 
 # Role/position
-role = "MSc student"
+role = "PhD candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,12 +23,12 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Tom experimentally tested whether mitochondrial DNA affects social partners as well as the individual carrying the mtNDA, which might lessen or exacerbate 'mother's curse'."
+    "For his MSc thesis Tom used experiments with _Drosophila_ to test whether the effects of mitochondrial DNA on males are truly invisible to selection (spoiler: not if there's kin selection!). Tom is currently writing up his MSc work, and is about to start his PhD."
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni"]
+user_groups = ["Current lab members"]
 
 # List qualifications (such as academic degrees)
 # [[education.courses]]

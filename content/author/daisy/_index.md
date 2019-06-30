@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "Daisy is developing her MSc project right now, and will likely work on evolutionary questions in _Drosophila_."
+    "Daisy is investigating social insect queen pheromones, using experiments with honey bees and _Drosophila_ (which, remarkably, shows a similar response to honey bee queen pheromone as a worker bee)."
 ]
 
 # Organizational groups that you belong to (for People widget)
