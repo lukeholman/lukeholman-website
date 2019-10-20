@@ -2,102 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theoretical model on Luke Holman</title>
-    <link>/tags/theoretical-model/</link>
+    <link>https://www.lukeholman.org/tags/theoretical-model/</link>
     <description>Recent content in Theoretical model on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jul 2018 13:06:30 +1000</lastBuildDate>
     
-	<atom:link href="/tags/theoretical-model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/tags/theoretical-model/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Evolutionary simulations of Z-linked suppression gene drives</title>
-      <link>/publication/w_shredder/</link>
-      <pubDate>Sun, 20 Oct 2019 16:04:59 +1000</pubDate>
-      
-      <guid>/publication/w_shredder/</guid>
-      <description>This paper presents eco-evo simulations investigating the feasibility of a newly-proposed type of gene drive, the &lt;em&gt;W&lt;/em&gt;-shredder. &lt;em&gt;W&lt;/em&gt;-shredders might someday be used to control populations of pests and pathogens that have &lt;em&gt;ZW&lt;/em&gt; sex determination, such as Lepidopteran pests, parasitic trematodes, and cane toads.</description>
-    </item>
     
     <item>
       <title>Evolution of female choice under intralocus sexual conflict and genotype-by-environment interactions</title>
-      <link>/publication/li_and_holman/</link>
+      <link>https://www.lukeholman.org/publication/li_and_holman/</link>
       <pubDate>Fri, 27 Jul 2018 13:06:30 +1000</pubDate>
       
-      <guid>/publication/li_and_holman/</guid>
+      <guid>https://www.lukeholman.org/publication/li_and_holman/</guid>
       <description>We use theoretical models to examine the evolution of female choice when there is both intralocus sexual conflict and local adaptation. We show that IASC can weaken female preferences for high-condition males &amp;ndash; or even cause a preference for males in low condition &amp;ndash; depending on the relative benefits of producing well-adapted sons versus daughters. We discuss the relevance of our results to conservation genetics and empirical evolutionary biology.</description>
     </item>
     
     <item>
       <title>Bet hedging via multiple mating: a meta-analysis</title>
-      <link>/publication/bet_hedging_ma/</link>
+      <link>https://www.lukeholman.org/publication/bet_hedging_ma/</link>
       <pubDate>Fri, 28 Aug 2015 13:27:42 +1000</pubDate>
       
-      <guid>/publication/bet_hedging_ma/</guid>
+      <guid>https://www.lukeholman.org/publication/bet_hedging_ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coevolutionary dynamics of polyandry and sex-linked meiotic drive</title>
-      <link>/publication/x_drive_model/</link>
+      <link>https://www.lukeholman.org/publication/x_drive_model/</link>
       <pubDate>Thu, 27 Aug 2015 17:28:33 +1000</pubDate>
       
-      <guid>/publication/x_drive_model/</guid>
+      <guid>https://www.lukeholman.org/publication/x_drive_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional helping and evolutionary transitions to eusociality and cooperative breeding</title>
-      <link>/publication/conditional_helping_model/</link>
+      <link>https://www.lukeholman.org/publication/conditional_helping_model/</link>
       <pubDate>Thu, 28 Aug 2014 15:29:48 +1000</pubDate>
       
-      <guid>/publication/conditional_helping_model/</guid>
+      <guid>https://www.lukeholman.org/publication/conditional_helping_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The evolution of genomic imprinting: Costs, benefits and long-term consequences</title>
-      <link>/publication/imprinting_review/</link>
+      <link>https://www.lukeholman.org/publication/imprinting_review/</link>
       <pubDate>Thu, 28 Aug 2014 15:19:14 +1000</pubDate>
       
-      <guid>/publication/imprinting_review/</guid>
+      <guid>https://www.lukeholman.org/publication/imprinting_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caste load and the evolution of reproductive skew</title>
-      <link>/publication/caste_load/</link>
+      <link>https://www.lukeholman.org/publication/caste_load/</link>
       <pubDate>Thu, 28 Aug 2014 13:30:14 +1000</pubDate>
       
-      <guid>/publication/caste_load/</guid>
+      <guid>https://www.lukeholman.org/publication/caste_load/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crozier’s paradox revisited: maintenance of genetic recognition systems by disassortative mating</title>
-      <link>/publication/croziers_paradox/</link>
+      <link>https://www.lukeholman.org/publication/croziers_paradox/</link>
       <pubDate>Wed, 28 Aug 2013 16:24:55 +1000</pubDate>
       
-      <guid>/publication/croziers_paradox/</guid>
+      <guid>https://www.lukeholman.org/publication/croziers_paradox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Costs and constraints conspire to produce honest signaling: insights from an ant queen pheromone</title>
-      <link>/publication/evolution_honest_signals/</link>
+      <link>https://www.lukeholman.org/publication/evolution_honest_signals/</link>
       <pubDate>Tue, 28 Feb 2012 16:28:26 +1000</pubDate>
       
-      <guid>/publication/evolution_honest_signals/</guid>
+      <guid>https://www.lukeholman.org/publication/evolution_honest_signals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spermicide, cryptic female choice and the evolution of sperm form and function</title>
-      <link>/publication/spermicide_model/</link>
+      <link>https://www.lukeholman.org/publication/spermicide_model/</link>
       <pubDate>Fri, 28 Apr 2006 17:10:23 +1000</pubDate>
       
-      <guid>/publication/spermicide_model/</guid>
+      <guid>https://www.lukeholman.org/publication/spermicide_model/</guid>
       <description></description>
     </item>
     

@@ -2,57 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gene drives on Luke Holman</title>
-    <link>/tags/gene-drives/</link>
+    <link>https://www.lukeholman.org/tags/gene-drives/</link>
     <description>Recent content in Gene drives on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Aug 2018 19:00:21 +1000</lastBuildDate>
     
-	<atom:link href="/tags/gene-drives/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/tags/gene-drives/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Evolutionary simulations of Z-linked suppression gene drives</title>
-      <link>/publication/w_shredder/</link>
-      <pubDate>Sun, 20 Oct 2019 16:04:59 +1000</pubDate>
-      
-      <guid>/publication/w_shredder/</guid>
-      <description>This paper presents eco-evo simulations investigating the feasibility of a newly-proposed type of gene drive, the &lt;em&gt;W&lt;/em&gt;-shredder. &lt;em&gt;W&lt;/em&gt;-shredders might someday be used to control populations of pests and pathogens that have &lt;em&gt;ZW&lt;/em&gt; sex determination, such as Lepidopteran pests, parasitic trematodes, and cane toads.</description>
-    </item>
     
     <item>
       <title>Gene drives</title>
-      <link>/project/gene_drives/</link>
+      <link>https://www.lukeholman.org/project/gene_drives/</link>
       <pubDate>Mon, 27 Aug 2018 19:00:21 +1000</pubDate>
       
-      <guid>/project/gene_drives/</guid>
+      <guid>https://www.lukeholman.org/project/gene_drives/</guid>
       <description>Population genetics of natural and synthetic gene drives</description>
     </item>
     
     <item>
       <title>The ecology and evolutionary dynamics of meiotic drive</title>
-      <link>/publication/drive_tree/</link>
+      <link>https://www.lukeholman.org/publication/drive_tree/</link>
       <pubDate>Sat, 27 Feb 2016 18:55:53 +1000</pubDate>
       
-      <guid>/publication/drive_tree/</guid>
+      <guid>https://www.lukeholman.org/publication/drive_tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coevolutionary dynamics of polyandry and sex-linked meiotic drive</title>
-      <link>/publication/x_drive_model/</link>
+      <link>https://www.lukeholman.org/publication/x_drive_model/</link>
       <pubDate>Thu, 27 Aug 2015 17:28:33 +1000</pubDate>
       
-      <guid>/publication/x_drive_model/</guid>
+      <guid>https://www.lukeholman.org/publication/x_drive_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Even more functions of sperm RNA: a response to Hosken and Hodgson</title>
-      <link>/publication/sperm_rna/</link>
+      <link>https://www.lukeholman.org/publication/sperm_rna/</link>
       <pubDate>Thu, 28 Aug 2014 15:52:51 +1000</pubDate>
       
-      <guid>/publication/sperm_rna/</guid>
+      <guid>https://www.lukeholman.org/publication/sperm_rna/</guid>
       <description></description>
     </item>
     

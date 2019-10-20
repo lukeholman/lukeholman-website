@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cindy E. Hauser on Luke Holman</title>
-    <link>/authors/cindy-e.-hauser/</link>
+    <link>https://www.lukeholman.org/authors/cindy-e.-hauser/</link>
     <description>Recent content in Cindy E. Hauser on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Aug 2018 13:06:30 +1000</lastBuildDate>
     
-	<atom:link href="/authors/cindy-e.-hauser/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/authors/cindy-e.-hauser/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The gender gap in science: how long until women are equally represented?</title>
-      <link>/publication/gender_gap/</link>
+      <link>https://www.lukeholman.org/publication/gender_gap/</link>
       <pubDate>Mon, 27 Aug 2018 13:06:30 +1000</pubDate>
       
-      <guid>/publication/gender_gap/</guid>
+      <guid>https://www.lukeholman.org/publication/gender_gap/</guid>
       <description>We recorded the gender of 36 million authors from &amp;gt;100 countries publishing in &amp;gt;6000 journals from most STEMM, and made a &lt;a href=&#34;https://lukeholman.github.io/genderGap/&#34; target=&#34;_blank&#34;&gt;web app&lt;/a&gt; facilitating exploration of the data. Despite recent progress, the gender gap appears likely to persist for generations.</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frances Jacomb on Luke Holman</title>
-    <link>/authors/frances-jacomb/</link>
+    <link>https://www.lukeholman.org/authors/frances-jacomb/</link>
     <description>Recent content in Frances Jacomb on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Aug 2017 17:28:33 +1000</lastBuildDate>
     
-	<atom:link href="/authors/frances-jacomb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/authors/frances-jacomb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The effects of stress and sex on selection, genetic covariance, and the evolutionary response</title>
-      <link>/publication/stress_and_sex/</link>
+      <link>https://www.lukeholman.org/publication/stress_and_sex/</link>
       <pubDate>Sun, 27 Aug 2017 17:28:33 +1000</pubDate>
       
-      <guid>/publication/stress_and_sex/</guid>
+      <guid>https://www.lukeholman.org/publication/stress_and_sex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sexual selection expedites the evolution of pesticide resistance</title>
-      <link>/publication/ss_pesticide/</link>
+      <link>https://www.lukeholman.org/publication/ss_pesticide/</link>
       <pubDate>Sat, 27 Aug 2016 19:29:27 +1000</pubDate>
       
-      <guid>/publication/ss_pesticide/</guid>
+      <guid>https://www.lukeholman.org/publication/ss_pesticide/</guid>
       <description>Using experimental evolution, we test whether allowing or preventing sexual selection on males affects the rate at which flour beetle populations evolve resistance (and susceptibility) to insecticide.</description>
     </item>
     

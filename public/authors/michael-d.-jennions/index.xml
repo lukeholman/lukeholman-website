@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael D. Jennions on Luke Holman</title>
-    <link>/authors/michael-d.-jennions/</link>
+    <link>https://www.lukeholman.org/authors/michael-d.-jennions/</link>
     <description>Recent content in Michael D. Jennions on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2015 13:19:27 +1000</lastBuildDate>
     
-	<atom:link href="/authors/michael-d.-jennions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/authors/michael-d.-jennions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evidence of experimental bias in the life sciences: why we need blind data recording</title>
-      <link>/publication/blind_data_recording/</link>
+      <link>https://www.lukeholman.org/publication/blind_data_recording/</link>
       <pubDate>Fri, 28 Aug 2015 13:19:27 +1000</pubDate>
       
-      <guid>/publication/blind_data_recording/</guid>
+      <guid>https://www.lukeholman.org/publication/blind_data_recording/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The extent and consequences of p-hacking in science</title>
-      <link>/publication/p_hacking/</link>
+      <link>https://www.lukeholman.org/publication/p_hacking/</link>
       <pubDate>Fri, 28 Aug 2015 13:07:13 +1000</pubDate>
       
-      <guid>/publication/p_hacking/</guid>
+      <guid>https://www.lukeholman.org/publication/p_hacking/</guid>
       <description></description>
     </item>
     

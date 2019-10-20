@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heikki Helantera on Luke Holman</title>
-    <link>/authors/heikki-helantera/</link>
+    <link>https://www.lukeholman.org/authors/heikki-helantera/</link>
     <description>Recent content in Heikki Helantera on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 16:04:59 +1000</lastBuildDate>
     
-	<atom:link href="/authors/heikki-helantera/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/authors/heikki-helantera/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comparative transcriptomics of social insect queen pheromones</title>
-      <link>/publication/pheromone_rnaseq/</link>
+      <link>https://www.lukeholman.org/publication/pheromone_rnaseq/</link>
       <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
       
-      <guid>/publication/pheromone_rnaseq/</guid>
+      <guid>https://www.lukeholman.org/publication/pheromone_rnaseq/</guid>
       <description>Many ants, bees, and wasps use similar or identical chemicals as queen pheromones, even though these taxa diverged &amp;gt;150MYA, and evolved eusociality independently. Here, we use mRNA sequencing to identify queen pheromone-sensitive genes in 4 ant and bee species, and show that pheromones affect many of the same transcriptional modules. Pheromone-sensitive genes tend to be ancient, positively selected, peripheral in transcriptomic networks, hypomethylated, and caste-specific in their expression.</description>
     </item>
     

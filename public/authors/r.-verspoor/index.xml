@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Verspoor on Luke Holman</title>
-    <link>/authors/r.-verspoor/</link>
+    <link>https://www.lukeholman.org/authors/r.-verspoor/</link>
     <description>Recent content in R. Verspoor on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Feb 2016 18:55:53 +1000</lastBuildDate>
     
-	<atom:link href="/authors/r.-verspoor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/authors/r.-verspoor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The ecology and evolutionary dynamics of meiotic drive</title>
-      <link>/publication/drive_tree/</link>
+      <link>https://www.lukeholman.org/publication/drive_tree/</link>
       <pubDate>Sat, 27 Feb 2016 18:55:53 +1000</pubDate>
       
-      <guid>/publication/drive_tree/</guid>
+      <guid>https://www.lukeholman.org/publication/drive_tree/</guid>
       <description></description>
     </item>
     

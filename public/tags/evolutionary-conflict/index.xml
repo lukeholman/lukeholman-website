@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolutionary conflict on Luke Holman</title>
-    <link>/tags/evolutionary-conflict/</link>
+    <link>https://www.lukeholman.org/tags/evolutionary-conflict/</link>
     <description>Recent content in Evolutionary conflict on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 16:04:59 +1000</lastBuildDate>
     
-	<atom:link href="/tags/evolutionary-conflict/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/tags/evolutionary-conflict/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sexual selection improves population fitness: a systematic review and meta-analysis</title>
-      <link>/publication/justin_metaanalysis/</link>
+      <link>https://www.lukeholman.org/publication/justin_metaanalysis/</link>
       <pubDate>Thu, 28 Feb 2019 16:04:59 +1000</pubDate>
       
-      <guid>/publication/justin_metaanalysis/</guid>
+      <guid>https://www.lukeholman.org/publication/justin_metaanalysis/</guid>
       <description>We synthesised 459 effect sizes from 65 pertinent experimental evolution studies using meta-analysis, and found that sexual selection on males tends to elevate the mean and reduce the variance for many fitness traits. The beneficial effect was stronger in female traits than males, and for populations evolving under stressful conditions. The results have implications for conservation and captive breeding programs.</description>
     </item>
     
     <item>
       <title>Building a new research framework for social evolution: Intralocus caste antagonism</title>
-      <link>/publication/pennell_caste_and_sex/</link>
+      <link>https://www.lukeholman.org/publication/pennell_caste_and_sex/</link>
       <pubDate>Sat, 27 Jan 2018 16:32:06 +1000</pubDate>
       
-      <guid>/publication/pennell_caste_and_sex/</guid>
+      <guid>https://www.lukeholman.org/publication/pennell_caste_and_sex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of stress and sex on selection, genetic covariance, and the evolutionary response</title>
-      <link>/publication/stress_and_sex/</link>
+      <link>https://www.lukeholman.org/publication/stress_and_sex/</link>
       <pubDate>Sun, 27 Aug 2017 17:28:33 +1000</pubDate>
       
-      <guid>/publication/stress_and_sex/</guid>
+      <guid>https://www.lukeholman.org/publication/stress_and_sex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ecology and evolutionary dynamics of meiotic drive</title>
-      <link>/publication/drive_tree/</link>
+      <link>https://www.lukeholman.org/publication/drive_tree/</link>
       <pubDate>Sat, 27 Feb 2016 18:55:53 +1000</pubDate>
       
-      <guid>/publication/drive_tree/</guid>
+      <guid>https://www.lukeholman.org/publication/drive_tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing the alignment of sexual and natural selection using radio-mutagenized seed beetles</title>
-      <link>/publication/beetle_mutagenesis/</link>
+      <link>https://www.lukeholman.org/publication/beetle_mutagenesis/</link>
       <pubDate>Fri, 28 Aug 2015 13:13:48 +1000</pubDate>
       
-      <guid>/publication/beetle_mutagenesis/</guid>
+      <guid>https://www.lukeholman.org/publication/beetle_mutagenesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coevolutionary dynamics of polyandry and sex-linked meiotic drive</title>
-      <link>/publication/x_drive_model/</link>
+      <link>https://www.lukeholman.org/publication/x_drive_model/</link>
       <pubDate>Thu, 27 Aug 2015 17:28:33 +1000</pubDate>
       
-      <guid>/publication/x_drive_model/</guid>
+      <guid>https://www.lukeholman.org/publication/x_drive_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The evolution of genomic imprinting: Costs, benefits and long-term consequences</title>
-      <link>/publication/imprinting_review/</link>
+      <link>https://www.lukeholman.org/publication/imprinting_review/</link>
       <pubDate>Thu, 28 Aug 2014 15:19:14 +1000</pubDate>
       
-      <guid>/publication/imprinting_review/</guid>
+      <guid>https://www.lukeholman.org/publication/imprinting_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caste load and the evolution of reproductive skew</title>
-      <link>/publication/caste_load/</link>
+      <link>https://www.lukeholman.org/publication/caste_load/</link>
       <pubDate>Thu, 28 Aug 2014 13:30:14 +1000</pubDate>
       
-      <guid>/publication/caste_load/</guid>
+      <guid>https://www.lukeholman.org/publication/caste_load/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic constraints on dishonesty and caste dimorphism in an ant</title>
-      <link>/publication/amnat_ant_quant_gen/</link>
+      <link>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</link>
       <pubDate>Wed, 28 Aug 2013 16:04:59 +1000</pubDate>
       
-      <guid>/publication/amnat_ant_quant_gen/</guid>
+      <guid>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The consequences of polyandry for population viability, extinction risk and conservation</title>
-      <link>/publication/polyandry_populations/</link>
+      <link>https://www.lukeholman.org/publication/polyandry_populations/</link>
       <pubDate>Mon, 28 Jan 2013 16:21:40 +1000</pubDate>
       
-      <guid>/publication/polyandry_populations/</guid>
+      <guid>https://www.lukeholman.org/publication/polyandry_populations/</guid>
       <description></description>
     </item>
     
