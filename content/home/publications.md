@@ -65,6 +65,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-[Browse all]({{< ref "/publication/_index.md" >}}) or visit [Google Scholar](https://scholar.google.com.au/citations?user=9WXgCXUAAAAJ&hl=en).
-{{% /alert %}}
+## [Browse all]({{< ref "/publication/_index.md" >}}) or visit [Google Scholar](https://scholar.google.com.au/citations?user=9WXgCXUAAAAJ&hl=en).
