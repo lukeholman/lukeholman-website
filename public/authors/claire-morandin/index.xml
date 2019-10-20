@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claire Morandin on Luke Holman</title>
-    <link>https://www.lukeholman.org/authors/claire-morandin/</link>
+    <link>/authors/claire-morandin/</link>
     <description>Recent content in Claire Morandin on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 May 2019 15:49:03 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/authors/claire-morandin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/claire-morandin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Researchers collaborate with same-gendered colleagues more often than expected across the life sciences</title>
-      <link>https://www.lukeholman.org/publication/homophily/</link>
+      <link>/publication/homophily/</link>
       <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/homophily/</guid>
+      <guid>/publication/homophily/</guid>
       <description>We find that researchers tend to co-publish with same-gendered colleagues, and that this tendency is presently increasing. We found no evidence that senior academics drive this pattern, or that the pattern is stronger in fields where women are in the minority. Interestingly, journals with a high impact factor for their discipline tended to have comparatively many mixed-gender teams.</description>
     </item>
     

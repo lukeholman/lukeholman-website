@@ -3,7 +3,95 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication_types/2/</loc>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/w_shredder/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/gene-drives/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/luke-holman/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/theoretical-model/</loc>
+      <lastmod>2019-10-20T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/claire-morandin/</loc>
       <lastmod>2019-05-11T15:49:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -12,7 +100,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/</loc>
+      <loc>/tags/gender-gap/</loc>
       <lastmod>2019-05-11T15:49:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -21,7 +109,15 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/claire-morandin/</loc>
+      <loc>/publication/homophily/</loc>
+      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/science-about-science/</loc>
       <lastmod>2019-05-11T15:49:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -30,77 +126,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/gender-gap/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/luke-holman/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/publication_types/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/publication/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/publication/homophily/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/science-about-science/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/</loc>
-      <lastmod>2019-05-11T15:49:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/alexander-s.-mikheyev/</loc>
+      <loc>/authors/alexander-s.-mikheyev/</loc>
       <lastmod>2019-03-01T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -109,7 +135,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/pheromone_rnaseq/</loc>
+      <loc>/publication/pheromone_rnaseq/</loc>
       <lastmod>2019-03-01T16:04:59+10:00</lastmod>
     </url>
     
@@ -117,16 +143,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/heikki-helantera/</loc>
-      <lastmod>2019-03-01T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/kalevi-trontti/</loc>
+      <loc>/authors/heikki-helantera/</loc>
       <lastmod>2019-03-01T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -135,7 +152,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/queen-pheromones/</loc>
+      <loc>/authors/kalevi-trontti/</loc>
       <lastmod>2019-03-01T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -144,7 +161,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/social-insects/</loc>
+      <loc>/tags/queen-pheromones/</loc>
       <lastmod>2019-03-01T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -153,7 +170,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/devi-stuart-fox/</loc>
+      <loc>/tags/social-insects/</loc>
+      <lastmod>2019-03-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/devi-stuart-fox/</loc>
       <lastmod>2019-02-28T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -162,7 +188,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/evolutionary-conflict/</loc>
+      <loc>/tags/evolutionary-conflict/</loc>
       <lastmod>2019-02-28T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -171,7 +197,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/justin-g.-cally/</loc>
+      <loc>/authors/justin-g.-cally/</loc>
       <lastmod>2019-02-28T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -180,7 +206,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/sexual-selection/</loc>
+      <loc>/tags/sexual-selection/</loc>
       <lastmod>2019-02-28T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -189,7 +215,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/justin_metaanalysis/</loc>
+      <loc>/publication/justin_metaanalysis/</loc>
       <lastmod>2019-02-28T16:04:59+10:00</lastmod>
     </url>
     
@@ -197,7 +223,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2018-08-28T16:40:37+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -206,7 +232,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/queen_pheromones/</loc>
+      <loc>/project/queen_pheromones/</loc>
       <lastmod>2018-08-28T16:40:37+10:00</lastmod>
     </url>
     
@@ -214,7 +240,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/science_about_science/</loc>
+      <loc>/project/science_about_science/</loc>
       <lastmod>2018-08-28T13:09:44+10:00</lastmod>
     </url>
     
@@ -222,7 +248,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/sexual_selection/</loc>
+      <loc>/project/sexual_selection/</loc>
       <lastmod>2018-08-27T19:20:48+10:00</lastmod>
     </url>
     
@@ -230,16 +256,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/gene-drives/</loc>
-      <lastmod>2018-08-27T19:00:21+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/project/gene_drives/</loc>
+      <loc>/project/gene_drives/</loc>
       <lastmod>2018-08-27T19:00:21+10:00</lastmod>
     </url>
     
@@ -247,7 +264,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/intralocus_conflict/</loc>
+      <loc>/project/intralocus_conflict/</loc>
       <lastmod>2018-08-27T17:38:27+10:00</lastmod>
     </url>
     
@@ -255,7 +272,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/social_insects/</loc>
+      <loc>/project/social_insects/</loc>
       <lastmod>2018-08-27T16:10:20+10:00</lastmod>
     </url>
     
@@ -263,7 +280,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/cindy-e.-hauser/</loc>
+      <loc>/authors/cindy-e.-hauser/</loc>
       <lastmod>2018-08-27T13:06:30+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -272,7 +289,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/gender_gap/</loc>
+      <loc>/publication/gender_gap/</loc>
       <lastmod>2018-08-27T13:06:30+10:00</lastmod>
     </url>
     
@@ -280,7 +297,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/li_and_holman/</loc>
+      <loc>/publication/li_and_holman/</loc>
       <lastmod>2018-07-27T13:06:30+10:00</lastmod>
     </url>
     
@@ -288,16 +305,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/theoretical-model/</loc>
-      <lastmod>2018-07-27T13:06:30+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/xiang-yi-li/</loc>
+      <loc>/authors/xiang-yi-li/</loc>
       <lastmod>2018-07-27T13:06:30+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -306,7 +314,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/be_reply/</loc>
+      <loc>/publication/be_reply/</loc>
       <lastmod>2018-05-27T16:26:57+10:00</lastmod>
     </url>
     
@@ -314,7 +322,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/qp_meta_analysis/</loc>
+      <loc>/publication/qp_meta_analysis/</loc>
       <lastmod>2018-04-28T17:56:34+10:00</lastmod>
     </url>
     
@@ -322,7 +330,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/gender_gap/</loc>
+      <loc>/project/gender_gap/</loc>
       <lastmod>2018-04-27T14:03:47+10:00</lastmod>
     </url>
     
@@ -330,7 +338,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/pennell_caste_and_sex/</loc>
+      <loc>/publication/pennell_caste_and_sex/</loc>
       <lastmod>2018-01-27T16:32:06+10:00</lastmod>
     </url>
     
@@ -338,16 +346,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/edward-h.-morrow/</loc>
-      <lastmod>2018-01-27T16:32:06+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/jeremy-field/</loc>
+      <loc>/authors/edward-h.-morrow/</loc>
       <lastmod>2018-01-27T16:32:06+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -356,7 +355,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/tanya-m.-pennell/</loc>
+      <loc>/authors/jeremy-field/</loc>
       <lastmod>2018-01-27T16:32:06+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -365,7 +364,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/frances-jacomb/</loc>
+      <loc>/authors/tanya-m.-pennell/</loc>
+      <lastmod>2018-01-27T16:32:06+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/frances-jacomb/</loc>
       <lastmod>2017-08-27T17:28:33+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -374,7 +382,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/stress_and_sex/</loc>
+      <loc>/publication/stress_and_sex/</loc>
       <lastmod>2017-08-27T17:28:33+10:00</lastmod>
     </url>
     
@@ -382,7 +390,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/annette-van-oystaeyen/</loc>
+      <loc>/authors/annette-van-oystaeyen/</loc>
       <lastmod>2017-05-27T16:56:52+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -391,7 +399,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/amsalem_critique/</loc>
+      <loc>/publication/amsalem_critique/</loc>
       <lastmod>2017-05-27T16:56:52+10:00</lastmod>
     </url>
     
@@ -399,16 +407,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/jelle-s.-van-zweden/</loc>
-      <lastmod>2017-05-27T16:56:52+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/ricardo-c-oliveira/</loc>
+      <loc>/authors/jelle-s.-van-zweden/</loc>
       <lastmod>2017-05-27T16:56:52+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -417,7 +416,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/tom-wenseleers/</loc>
+      <loc>/authors/ricardo-c-oliveira/</loc>
       <lastmod>2017-05-27T16:56:52+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -426,7 +425,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/jason-marsh/</loc>
+      <loc>/authors/tom-wenseleers/</loc>
+      <lastmod>2017-05-27T16:56:52+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jason-marsh/</loc>
       <lastmod>2016-08-27T19:29:27+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -435,7 +443,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/ss_pesticide/</loc>
+      <loc>/publication/ss_pesticide/</loc>
       <lastmod>2016-08-27T19:29:27+10:00</lastmod>
     </url>
     
@@ -443,7 +451,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/jakob-bro-j%C3%B8rgensen/</loc>
+      <loc>/authors/jakob-bro-j%C3%B8rgensen/</loc>
       <lastmod>2016-08-27T19:18:15+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -452,7 +460,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/antler_comment/</loc>
+      <loc>/publication/antler_comment/</loc>
       <lastmod>2016-08-27T19:18:15+10:00</lastmod>
     </url>
     
@@ -460,7 +468,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/antonia-klein/</loc>
+      <loc>/authors/antonia-klein/</loc>
       <lastmod>2016-08-27T19:04:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -469,7 +477,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/eva-schultner/</loc>
+      <loc>/authors/eva-schultner/</loc>
       <lastmod>2016-08-27T19:04:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -478,7 +486,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/doublesex_cardio/</loc>
+      <loc>/publication/doublesex_cardio/</loc>
       <lastmod>2016-08-27T19:04:03+10:00</lastmod>
     </url>
     
@@ -486,16 +494,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/helena-lowak/</loc>
-      <lastmod>2016-08-27T19:04:03+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/jan-oettler/</loc>
+      <loc>/authors/helena-lowak/</loc>
       <lastmod>2016-08-27T19:04:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -504,7 +503,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/j%C3%BCrgen-heinze/</loc>
+      <loc>/authors/jan-oettler/</loc>
       <lastmod>2016-08-27T19:04:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -513,7 +512,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/lukas-schrader/</loc>
+      <loc>/authors/j%C3%BCrgen-heinze/</loc>
       <lastmod>2016-08-27T19:04:03+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -522,7 +521,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/brian-hanley/</loc>
+      <loc>/authors/lukas-schrader/</loc>
+      <lastmod>2016-08-27T19:04:03+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/brian-hanley/</loc>
       <lastmod>2016-08-27T18:49:22+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -531,7 +539,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/chain_length/</loc>
+      <loc>/publication/chain_length/</loc>
       <lastmod>2016-08-27T18:49:22+10:00</lastmod>
     </url>
     
@@ -539,7 +547,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/jocelyn-millar/</loc>
+      <loc>/authors/jocelyn-millar/</loc>
       <lastmod>2016-08-27T18:49:22+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -548,7 +556,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/heikki-helanter%C3%A4/</loc>
+      <loc>/authors/heikki-helanter%C3%A4/</loc>
       <lastmod>2016-08-27T18:24:21+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -557,7 +565,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/methylation_and_pheromones/</loc>
+      <loc>/publication/methylation_and_pheromones/</loc>
       <lastmod>2016-08-27T18:24:21+10:00</lastmod>
     </url>
     
@@ -565,7 +573,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/a.-manser/</loc>
+      <loc>/authors/a.-manser/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -574,7 +582,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/a.-pomiankowski/</loc>
+      <loc>/authors/a.-pomiankowski/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -583,7 +591,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/a.-sutter/</loc>
+      <loc>/authors/a.-sutter/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -592,7 +600,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/a.k.-lindholm/</loc>
+      <loc>/authors/a.k.-lindholm/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -601,7 +609,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/a.m.-laraccuente/</loc>
+      <loc>/authors/a.m.-laraccuente/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -610,7 +618,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/c.-montchamp-moreau/</loc>
+      <loc>/authors/c.-montchamp-moreau/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -619,7 +627,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/d.c.-presgraves/</loc>
+      <loc>/authors/d.c.-presgraves/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -628,7 +636,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/g.s.-wilkinson/</loc>
+      <loc>/authors/g.s.-wilkinson/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -637,7 +645,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/h.-johannesson/</loc>
+      <loc>/authors/h.-johannesson/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -646,7 +654,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/h.-kokko/</loc>
+      <loc>/authors/h.-kokko/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -655,7 +663,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/k.a.-dyer/</loc>
+      <loc>/authors/k.a.-dyer/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -664,7 +672,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/l.-fishman/</loc>
+      <loc>/authors/l.-fishman/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -673,7 +681,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/l.-holman/</loc>
+      <loc>/authors/l.-holman/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -682,7 +690,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/l.d.-safronova/</loc>
+      <loc>/authors/l.d.-safronova/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -691,7 +699,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/n.-wedell/</loc>
+      <loc>/authors/n.-wedell/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -700,7 +708,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/r.-verspoor/</loc>
+      <loc>/authors/r.-verspoor/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -709,7 +717,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/r.c.-firman/</loc>
+      <loc>/authors/r.c.-firman/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -718,7 +726,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/r.l.-unckless/</loc>
+      <loc>/authors/r.l.-unckless/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -727,7 +735,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/t.a.r.-price/</loc>
+      <loc>/authors/t.a.r.-price/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -736,7 +744,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/drive_tree/</loc>
+      <loc>/publication/drive_tree/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
     </url>
     
@@ -744,16 +752,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/u.-knief/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/v.g.-petrosyan/</loc>
+      <loc>/authors/u.-knief/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -762,7 +761,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/w.-forstmeier/</loc>
+      <loc>/authors/v.g.-petrosyan/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -771,7 +770,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/bet_hedging_ma/</loc>
+      <loc>/authors/w.-forstmeier/</loc>
+      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/bet_hedging_ma/</loc>
       <lastmod>2015-08-28T13:27:42+10:00</lastmod>
     </url>
     
@@ -779,7 +787,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/blind_data_recording/</loc>
+      <loc>/publication/blind_data_recording/</loc>
       <lastmod>2015-08-28T13:19:27+10:00</lastmod>
     </url>
     
@@ -787,16 +795,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/megan-l.-head/</loc>
-      <lastmod>2015-08-28T13:19:27+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/michael-d.-jennions/</loc>
+      <loc>/authors/megan-l.-head/</loc>
       <lastmod>2015-08-28T13:19:27+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -805,7 +804,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/robert-lanfear/</loc>
+      <loc>/authors/michael-d.-jennions/</loc>
       <lastmod>2015-08-28T13:19:27+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -814,7 +813,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/bet_hedging_commentary/</loc>
+      <loc>/authors/robert-lanfear/</loc>
+      <lastmod>2015-08-28T13:19:27+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/bet_hedging_commentary/</loc>
       <lastmod>2015-08-28T13:16:26+10:00</lastmod>
     </url>
     
@@ -822,7 +830,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/jonathan-m.-henshaw/</loc>
+      <loc>/authors/jonathan-m.-henshaw/</loc>
       <lastmod>2015-08-28T13:16:26+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -831,7 +839,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/beetle_mutagenesis/</loc>
+      <loc>/publication/beetle_mutagenesis/</loc>
       <lastmod>2015-08-28T13:13:48+10:00</lastmod>
     </url>
     
@@ -839,7 +847,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/daniel-j.-power/</loc>
+      <loc>/authors/daniel-j.-power/</loc>
       <lastmod>2015-08-28T13:13:48+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -848,7 +856,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/andrew-t.-kahn/</loc>
+      <loc>/authors/andrew-t.-kahn/</loc>
       <lastmod>2015-08-28T13:07:13+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -857,7 +865,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/p_hacking/</loc>
+      <loc>/publication/p_hacking/</loc>
       <lastmod>2015-08-28T13:07:13+10:00</lastmod>
     </url>
     
@@ -865,7 +873,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/x_drive_model/</loc>
+      <loc>/publication/x_drive_model/</loc>
       <lastmod>2015-08-27T17:28:33+10:00</lastmod>
     </url>
     
@@ -873,16 +881,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/hanna-kokko/</loc>
-      <lastmod>2015-08-27T17:28:33+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/nina-wedell/</loc>
+      <loc>/authors/hanna-kokko/</loc>
       <lastmod>2015-08-27T17:28:33+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -891,7 +890,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/thomas-a.r.-price/</loc>
+      <loc>/authors/nina-wedell/</loc>
       <lastmod>2015-08-27T17:28:33+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -900,7 +899,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/patrizia-dettorre/</loc>
+      <loc>/authors/thomas-a.r.-price/</loc>
+      <lastmod>2015-08-27T17:28:33+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/patrizia-dettorre/</loc>
       <lastmod>2014-08-28T16:15:09+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -909,7 +917,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/lasius_comparative_jeb/</loc>
+      <loc>/publication/lasius_comparative_jeb/</loc>
       <lastmod>2014-08-28T16:15:09+10:00</lastmod>
     </url>
     
@@ -917,7 +925,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/synchronous_waving/</loc>
+      <loc>/publication/synchronous_waving/</loc>
       <lastmod>2014-08-28T16:01:13+10:00</lastmod>
     </url>
     
@@ -925,7 +933,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/patricia-r.y.-backwell/</loc>
+      <loc>/authors/patricia-r.y.-backwell/</loc>
       <lastmod>2014-08-28T16:01:13+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -934,7 +942,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/sperm_rna/</loc>
+      <loc>/publication/sperm_rna/</loc>
       <lastmod>2014-08-28T15:52:51+10:00</lastmod>
     </url>
     
@@ -942,7 +950,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/tags/sperm/</loc>
+      <loc>/tags/sperm/</loc>
       <lastmod>2014-08-28T15:52:51+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -951,7 +959,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/bombus_peerj/</loc>
+      <loc>/publication/bombus_peerj/</loc>
       <lastmod>2014-08-28T15:49:30+10:00</lastmod>
     </url>
     
@@ -959,7 +967,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/boris-baer/</loc>
+      <loc>/authors/boris-baer/</loc>
       <lastmod>2014-08-28T15:45:45+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -968,7 +976,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/apis_chcs/</loc>
+      <loc>/publication/apis_chcs/</loc>
       <lastmod>2014-08-28T15:45:45+10:00</lastmod>
     </url>
     
@@ -976,16 +984,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/maja-babis/</loc>
-      <lastmod>2014-08-28T15:45:45+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/melissa-l.-thomas/</loc>
+      <loc>/authors/maja-babis/</loc>
       <lastmod>2014-08-28T15:45:45+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -994,7 +993,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/ricarda-fenske/</loc>
+      <loc>/authors/melissa-l.-thomas/</loc>
       <lastmod>2014-08-28T15:45:45+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1003,7 +1002,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication_types/6/</loc>
+      <loc>/authors/ricarda-fenske/</loc>
+      <lastmod>2014-08-28T15:45:45+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/6/</loc>
       <lastmod>2014-08-28T15:38:09+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1012,7 +1020,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/gxe_chapter/</loc>
+      <loc>/publication/gxe_chapter/</loc>
       <lastmod>2014-08-28T15:38:09+10:00</lastmod>
     </url>
     
@@ -1020,7 +1028,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/conditional_helping_model/</loc>
+      <loc>/publication/conditional_helping_model/</loc>
       <lastmod>2014-08-28T15:29:48+10:00</lastmod>
     </url>
     
@@ -1028,7 +1036,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/polyandrous_females_found_fitter/</loc>
+      <loc>/publication/polyandrous_females_found_fitter/</loc>
       <lastmod>2014-08-28T15:22:47+10:00</lastmod>
     </url>
     
@@ -1036,7 +1044,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/imprinting_review/</loc>
+      <loc>/publication/imprinting_review/</loc>
       <lastmod>2014-08-28T15:19:14+10:00</lastmod>
     </url>
     
@@ -1044,7 +1052,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/fiddlers_roof/</loc>
+      <loc>/publication/fiddlers_roof/</loc>
       <lastmod>2014-08-28T15:13:42+10:00</lastmod>
     </url>
     
@@ -1052,7 +1060,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/carmen-romero/</loc>
+      <loc>/authors/carmen-romero/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1061,7 +1069,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/cintia-a.-oi/</loc>
+      <loc>/authors/cintia-a.-oi/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1070,7 +1078,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/science_pheromones/</loc>
+      <loc>/publication/science_pheromones/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
     </url>
     
@@ -1078,16 +1086,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/felix-w%C3%A4ckers/</loc>
-      <lastmod>2014-08-28T13:50:17+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/jocelyn-g.-millar/</loc>
+      <loc>/authors/felix-w%C3%A4ckers/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1096,7 +1095,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/johan-billen/</loc>
+      <loc>/authors/jocelyn-g.-millar/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1105,7 +1104,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/mohammadreza-khalesi/</loc>
+      <loc>/authors/johan-billen/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1114,7 +1113,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/ricardo-c.-oliveira/</loc>
+      <loc>/authors/mohammadreza-khalesi/</loc>
       <lastmod>2014-08-28T13:50:17+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1123,7 +1122,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/caste_load/</loc>
+      <loc>/authors/ricardo-c.-oliveira/</loc>
+      <lastmod>2014-08-28T13:50:17+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/caste_load/</loc>
       <lastmod>2014-08-28T13:30:14+10:00</lastmod>
     </url>
     
@@ -1131,7 +1139,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/croziers_paradox/</loc>
+      <loc>/publication/croziers_paradox/</loc>
       <lastmod>2013-08-28T16:24:55+10:00</lastmod>
     </url>
     
@@ -1139,7 +1147,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/timothy-a.-linksvayer/</loc>
+      <loc>/authors/timothy-a.-linksvayer/</loc>
       <lastmod>2013-08-28T16:24:55+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1148,7 +1156,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</loc>
+      <loc>/publication/amnat_ant_quant_gen/</loc>
       <lastmod>2013-08-28T16:04:59+10:00</lastmod>
     </url>
     
@@ -1156,7 +1164,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/polyandry_populations/</loc>
+      <loc>/publication/polyandry_populations/</loc>
       <lastmod>2013-01-28T16:21:40+10:00</lastmod>
     </url>
     
@@ -1164,7 +1172,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/anton-chernenko/</loc>
+      <loc>/authors/anton-chernenko/</loc>
       <lastmod>2012-11-28T16:30:15+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1173,7 +1181,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/formica_sexuals/</loc>
+      <loc>/publication/formica_sexuals/</loc>
       <lastmod>2012-11-28T16:30:15+10:00</lastmod>
     </url>
     
@@ -1181,7 +1189,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/liselotta-sundstr%C3%B6m/</loc>
+      <loc>/authors/liselotta-sundstr%C3%B6m/</loc>
       <lastmod>2012-11-28T16:30:15+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1190,7 +1198,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/pheromone_negative_feedback/</loc>
+      <loc>/publication/pheromone_negative_feedback/</loc>
       <lastmod>2012-08-28T16:12:21+10:00</lastmod>
     </url>
     
@@ -1198,16 +1206,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/charlotte-g.-j%C3%B8rgensen/</loc>
-      <lastmod>2012-08-28T16:12:21+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/chloe-leroy/</loc>
+      <loc>/authors/charlotte-g.-j%C3%B8rgensen/</loc>
       <lastmod>2012-08-28T16:12:21+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1216,7 +1215,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/john-nielsen/</loc>
+      <loc>/authors/chloe-leroy/</loc>
       <lastmod>2012-08-28T16:12:21+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1225,7 +1224,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/evolution_honest_signals/</loc>
+      <loc>/authors/john-nielsen/</loc>
+      <lastmod>2012-08-28T16:12:21+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/evolution_honest_signals/</loc>
       <lastmod>2012-02-28T16:28:26+10:00</lastmod>
     </url>
     
@@ -1233,7 +1241,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/jacobus-j.-boomsma/</loc>
+      <loc>/authors/jacobus-j.-boomsma/</loc>
       <lastmod>2011-11-28T17:21:46+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1242,7 +1250,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/marlene-st%C3%BCrup/</loc>
+      <loc>/authors/marlene-st%C3%BCrup/</loc>
       <lastmod>2011-11-28T17:21:46+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1251,7 +1259,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/atta_sperm/</loc>
+      <loc>/publication/atta_sperm/</loc>
       <lastmod>2011-11-28T17:21:46+10:00</lastmod>
     </url>
     
@@ -1259,7 +1267,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/matthias-lange-nielsen/</loc>
+      <loc>/authors/matthias-lange-nielsen/</loc>
       <lastmod>2011-09-28T17:12:37+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1268,7 +1276,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/terminal_beetles_2011/</loc>
+      <loc>/publication/terminal_beetles_2011/</loc>
       <lastmod>2011-09-28T17:12:37+10:00</lastmod>
     </url>
     
@@ -1276,7 +1284,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/lena-grinsted/</loc>
+      <loc>/authors/lena-grinsted/</loc>
       <lastmod>2011-04-28T16:32:36+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1285,7 +1293,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/nick-bos/</loc>
+      <loc>/authors/nick-bos/</loc>
       <lastmod>2011-04-28T16:32:36+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1294,7 +1302,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/wax_on_wax_off/</loc>
+      <loc>/publication/wax_on_wax_off/</loc>
       <lastmod>2011-04-28T16:32:36+10:00</lastmod>
     </url>
     
@@ -1302,7 +1310,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/ashleigh-s.-griffin/</loc>
+      <loc>/authors/ashleigh-s.-griffin/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1311,7 +1319,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/benjamin-oldroyd/</loc>
+      <loc>/authors/benjamin-oldroyd/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1320,7 +1328,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/charles-k.-cornwallis/</loc>
+      <loc>/authors/charles-k.-cornwallis/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1329,7 +1337,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/nature_reply/</loc>
+      <loc>/publication/nature_reply/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
     </url>
     
@@ -1337,16 +1345,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/francis-l.w.-ratnieks/</loc>
-      <lastmod>2010-08-28T17:14:54+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/laurent-keller/</loc>
+      <loc>/authors/francis-l.w.-ratnieks/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1355,7 +1354,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/madeleine-beekman/</loc>
+      <loc>/authors/laurent-keller/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1364,7 +1363,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/william-o.h.-hughes/</loc>
+      <loc>/authors/madeleine-beekman/</loc>
       <lastmod>2010-08-28T17:14:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1373,7 +1372,16 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/chemical_crown/</loc>
+      <loc>/authors/william-o.h.-hughes/</loc>
+      <lastmod>2010-08-28T17:14:54+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/chemical_crown/</loc>
       <lastmod>2010-07-28T16:51:09+10:00</lastmod>
     </url>
     
@@ -1381,7 +1389,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/lasius_queen_pheromone_2010/</loc>
+      <loc>/publication/lasius_queen_pheromone_2010/</loc>
       <lastmod>2010-06-28T16:37:31+10:00</lastmod>
     </url>
     
@@ -1389,7 +1397,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/lasius_polygyny_proc_b/</loc>
+      <loc>/publication/lasius_polygyny_proc_b/</loc>
       <lastmod>2010-02-28T16:34:54+10:00</lastmod>
     </url>
     
@@ -1397,7 +1405,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/stephanie-dreier/</loc>
+      <loc>/authors/stephanie-dreier/</loc>
       <lastmod>2010-02-28T16:34:54+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1406,7 +1414,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/sperm_viability/</loc>
+      <loc>/publication/sperm_viability/</loc>
       <lastmod>2009-09-28T16:58:56+10:00</lastmod>
     </url>
     
@@ -1414,7 +1422,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/seminal_fluid_protects_sperm/</loc>
+      <loc>/publication/seminal_fluid_protects_sperm/</loc>
       <lastmod>2009-01-28T16:55:51+10:00</lastmod>
     </url>
     
@@ -1422,7 +1430,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/project/sperm/</loc>
+      <loc>/project/sperm/</loc>
       <lastmod>2008-08-29T10:39:23+10:00</lastmod>
     </url>
     
@@ -1430,7 +1438,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/sperm_current_biology/</loc>
+      <loc>/publication/sperm_current_biology/</loc>
       <lastmod>2008-02-28T17:04:12+10:00</lastmod>
     </url>
     
@@ -1438,7 +1446,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/rhonda-r.-snook/</loc>
+      <loc>/authors/rhonda-r.-snook/</loc>
       <lastmod>2008-02-28T17:04:12+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1447,7 +1455,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/robert-p.-freckleton/</loc>
+      <loc>/authors/robert-p.-freckleton/</loc>
       <lastmod>2007-08-28T17:00:56+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1456,7 +1464,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/sperm_comparative_evolution/</loc>
+      <loc>/publication/sperm_comparative_evolution/</loc>
       <lastmod>2007-08-28T17:00:56+10:00</lastmod>
     </url>
     
@@ -1464,7 +1472,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/spermicide_model/</loc>
+      <loc>/publication/spermicide_model/</loc>
       <lastmod>2006-04-28T17:10:23+10:00</lastmod>
     </url>
     
@@ -1472,7 +1480,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/benjamin-sadd/</loc>
+      <loc>/authors/benjamin-sadd/</loc>
       <lastmod>2006-01-28T17:07:26+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1481,7 +1489,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/fiona-lock/</loc>
+      <loc>/authors/fiona-lock/</loc>
       <lastmod>2006-01-28T17:07:26+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1490,7 +1498,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/helen-armitage/</loc>
+      <loc>/authors/helen-armitage/</loc>
       <lastmod>2006-01-28T17:07:26+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1499,7 +1507,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/michael-t.-siva-jothy/</loc>
+      <loc>/authors/michael-t.-siva-jothy/</loc>
       <lastmod>2006-01-28T17:07:26+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1508,7 +1516,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication/terminal_beetles_2006/</loc>
+      <loc>/publication/terminal_beetles_2006/</loc>
       <lastmod>2006-01-28T17:07:26+10:00</lastmod>
     </url>
     
@@ -1516,7 +1524,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/rachel-marland/</loc>
+      <loc>/authors/rachel-marland/</loc>
       <lastmod>2006-01-28T17:07:26+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1525,63 +1533,63 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/daisy/</loc>
+      <loc>/author/daisy/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/danpower/</loc>
+      <loc>/author/danpower/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/frances/</loc>
+      <loc>/author/frances/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/heidi/</loc>
+      <loc>/author/heidi/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/justin/</loc>
+      <loc>/author/justin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/lukeholman/</loc>
+      <loc>/author/lukeholman/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/tarli/</loc>
+      <loc>/author/tarli/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/tom/</loc>
+      <loc>/author/tom/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/author/</loc>
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -1589,7 +1597,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -1597,28 +1605,28 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/people/</loc>
+      <loc>/people/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/post/</loc>
+      <loc>/post/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/talk/</loc>
+      <loc>/talk/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/daisy/</loc>
+      <loc>/authors/daisy/</loc>
       <priority>0</priority>
     </url>
     
@@ -1626,7 +1634,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/danpower/</loc>
+      <loc>/authors/danpower/</loc>
       <priority>0</priority>
     </url>
     
@@ -1634,7 +1642,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/frances/</loc>
+      <loc>/authors/frances/</loc>
       <priority>0</priority>
     </url>
     
@@ -1642,7 +1650,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/heidi/</loc>
+      <loc>/authors/heidi/</loc>
       <priority>0</priority>
     </url>
     
@@ -1650,7 +1658,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/justin/</loc>
+      <loc>/authors/justin/</loc>
       <priority>0</priority>
     </url>
     
@@ -1658,7 +1666,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/lukeholman/</loc>
+      <loc>/authors/lukeholman/</loc>
       <priority>0</priority>
     </url>
     
@@ -1666,7 +1674,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/tarli/</loc>
+      <loc>/authors/tarli/</loc>
       <priority>0</priority>
     </url>
     
@@ -1674,7 +1682,7 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/tom/</loc>
+      <loc>/authors/tom/</loc>
       <priority>0</priority>
     </url>
     

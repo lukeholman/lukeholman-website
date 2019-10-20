@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanna Kokko on Luke Holman</title>
-    <link>https://www.lukeholman.org/authors/hanna-kokko/</link>
+    <link>/authors/hanna-kokko/</link>
     <description>Recent content in Hanna Kokko on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Aug 2015 17:28:33 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/authors/hanna-kokko/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/hanna-kokko/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coevolutionary dynamics of polyandry and sex-linked meiotic drive</title>
-      <link>https://www.lukeholman.org/publication/x_drive_model/</link>
+      <link>/publication/x_drive_model/</link>
       <pubDate>Thu, 27 Aug 2015 17:28:33 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/x_drive_model/</guid>
+      <guid>/publication/x_drive_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local adaptation and the evolution of female choice</title>
-      <link>https://www.lukeholman.org/publication/gxe_chapter/</link>
+      <link>/publication/gxe_chapter/</link>
       <pubDate>Thu, 28 Aug 2014 15:38:09 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/gxe_chapter/</guid>
+      <guid>/publication/gxe_chapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The evolution of genomic imprinting: Costs, benefits and long-term consequences</title>
-      <link>https://www.lukeholman.org/publication/imprinting_review/</link>
+      <link>/publication/imprinting_review/</link>
       <pubDate>Thu, 28 Aug 2014 15:19:14 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/imprinting_review/</guid>
+      <guid>/publication/imprinting_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The consequences of polyandry for population viability, extinction risk and conservation</title>
-      <link>https://www.lukeholman.org/publication/polyandry_populations/</link>
+      <link>/publication/polyandry_populations/</link>
       <pubDate>Mon, 28 Jan 2013 16:21:40 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/polyandry_populations/</guid>
+      <guid>/publication/polyandry_populations/</guid>
       <description></description>
     </item>
     

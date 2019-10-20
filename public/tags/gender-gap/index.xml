@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gender gap on Luke Holman</title>
-    <link>https://www.lukeholman.org/tags/gender-gap/</link>
+    <link>/tags/gender-gap/</link>
     <description>Recent content in Gender gap on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 May 2019 15:49:03 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/tags/gender-gap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/gender-gap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Researchers collaborate with same-gendered colleagues more often than expected across the life sciences</title>
-      <link>https://www.lukeholman.org/publication/homophily/</link>
+      <link>/publication/homophily/</link>
       <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/homophily/</guid>
+      <guid>/publication/homophily/</guid>
       <description>We find that researchers tend to co-publish with same-gendered colleagues, and that this tendency is presently increasing. We found no evidence that senior academics drive this pattern, or that the pattern is stronger in fields where women are in the minority. Interestingly, journals with a high impact factor for their discipline tended to have comparatively many mixed-gender teams.</description>
     </item>
     
     <item>
       <title>The gender gap in science: how long until women are equally represented?</title>
-      <link>https://www.lukeholman.org/publication/gender_gap/</link>
+      <link>/publication/gender_gap/</link>
       <pubDate>Mon, 27 Aug 2018 13:06:30 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/gender_gap/</guid>
+      <guid>/publication/gender_gap/</guid>
       <description>We recorded the gender of 36 million authors from &amp;gt;100 countries publishing in &amp;gt;6000 journals from most STEMM, and made a &lt;a href=&#34;https://lukeholman.github.io/genderGap/&#34; target=&#34;_blank&#34;&gt;web app&lt;/a&gt; facilitating exploration of the data. Despite recent progress, the gender gap appears likely to persist for generations.</description>
     </item>
     
     <item>
       <title>The gender gap in science</title>
-      <link>https://www.lukeholman.org/project/gender_gap/</link>
+      <link>/project/gender_gap/</link>
       <pubDate>Fri, 27 Apr 2018 14:03:47 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/gender_gap/</guid>
+      <guid>/project/gender_gap/</guid>
       <description>Using text mining to help redress gender inequality in the STEM workforce.</description>
     </item>
     

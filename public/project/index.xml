@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Luke Holman</title>
-    <link>https://www.lukeholman.org/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Aug 2018 16:40:37 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Queen pheromones</title>
-      <link>https://www.lukeholman.org/project/queen_pheromones/</link>
+      <link>/project/queen_pheromones/</link>
       <pubDate>Tue, 28 Aug 2018 16:40:37 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/queen_pheromones/</guid>
+      <guid>/project/queen_pheromones/</guid>
       <description>Research on the identity, mode of action, and evolution of social insect queen pheromones</description>
     </item>
     
     <item>
       <title>Science about science</title>
-      <link>https://www.lukeholman.org/project/science_about_science/</link>
+      <link>/project/science_about_science/</link>
       <pubDate>Tue, 28 Aug 2018 13:09:44 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/science_about_science/</guid>
+      <guid>/project/science_about_science/</guid>
       <description>Research about science itself: research practice, bias, reproducibility, and culture. Mostly text mining.</description>
     </item>
     
     <item>
       <title>Sexual selection</title>
-      <link>https://www.lukeholman.org/project/sexual_selection/</link>
+      <link>/project/sexual_selection/</link>
       <pubDate>Mon, 27 Aug 2018 19:20:48 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/sexual_selection/</guid>
+      <guid>/project/sexual_selection/</guid>
       <description>Population genetic consequences of sexual selection, honest signalling, sperm biology, etc.</description>
     </item>
     
     <item>
       <title>Gene drives</title>
-      <link>https://www.lukeholman.org/project/gene_drives/</link>
+      <link>/project/gene_drives/</link>
       <pubDate>Mon, 27 Aug 2018 19:00:21 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/gene_drives/</guid>
+      <guid>/project/gene_drives/</guid>
       <description>Population genetics of natural and synthetic gene drives</description>
     </item>
     
     <item>
       <title>Intralocus sexual conflict</title>
-      <link>https://www.lukeholman.org/project/intralocus_conflict/</link>
+      <link>/project/intralocus_conflict/</link>
       <pubDate>Mon, 27 Aug 2018 17:38:27 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/intralocus_conflict/</guid>
+      <guid>/project/intralocus_conflict/</guid>
       <description>The causes, consequences, and genetic basis of the maladaptation that arises when males and females share a genome.</description>
     </item>
     
     <item>
       <title>Evolution in social insects</title>
-      <link>https://www.lukeholman.org/project/social_insects/</link>
+      <link>/project/social_insects/</link>
       <pubDate>Mon, 27 Aug 2018 16:10:20 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/social_insects/</guid>
+      <guid>/project/social_insects/</guid>
       <description>Question-driven research on the evolution and genetics of ants and bees</description>
     </item>
     
     <item>
       <title>The gender gap in science</title>
-      <link>https://www.lukeholman.org/project/gender_gap/</link>
+      <link>/project/gender_gap/</link>
       <pubDate>Fri, 27 Apr 2018 14:03:47 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/gender_gap/</guid>
+      <guid>/project/gender_gap/</guid>
       <description>Using text mining to help redress gender inequality in the STEM workforce.</description>
     </item>
     
     <item>
       <title>Sperm</title>
-      <link>https://www.lukeholman.org/project/sperm/</link>
+      <link>/project/sperm/</link>
       <pubDate>Fri, 29 Aug 2008 10:39:23 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/sperm/</guid>
+      <guid>/project/sperm/</guid>
       <description>Sperm competition, and evolution of sperm morphology</description>
     </item>
     

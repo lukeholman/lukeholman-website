@@ -2,246 +2,246 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sexual selection on Luke Holman</title>
-    <link>https://www.lukeholman.org/tags/sexual-selection/</link>
+    <link>/tags/sexual-selection/</link>
     <description>Recent content in Sexual selection on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 16:04:59 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/tags/sexual-selection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sexual-selection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sexual selection improves population fitness: a systematic review and meta-analysis</title>
-      <link>https://www.lukeholman.org/publication/justin_metaanalysis/</link>
+      <link>/publication/justin_metaanalysis/</link>
       <pubDate>Thu, 28 Feb 2019 16:04:59 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/justin_metaanalysis/</guid>
+      <guid>/publication/justin_metaanalysis/</guid>
       <description>We synthesised 459 effect sizes from 65 pertinent experimental evolution studies using meta-analysis, and found that sexual selection on males tends to elevate the mean and reduce the variance for many fitness traits. The beneficial effect was stronger in female traits than males, and for populations evolving under stressful conditions. The results have implications for conservation and captive breeding programs.</description>
     </item>
     
     <item>
       <title>Sexual selection</title>
-      <link>https://www.lukeholman.org/project/sexual_selection/</link>
+      <link>/project/sexual_selection/</link>
       <pubDate>Mon, 27 Aug 2018 19:20:48 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/sexual_selection/</guid>
+      <guid>/project/sexual_selection/</guid>
       <description>Population genetic consequences of sexual selection, honest signalling, sperm biology, etc.</description>
     </item>
     
     <item>
       <title>Intralocus sexual conflict</title>
-      <link>https://www.lukeholman.org/project/intralocus_conflict/</link>
+      <link>/project/intralocus_conflict/</link>
       <pubDate>Mon, 27 Aug 2018 17:38:27 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/project/intralocus_conflict/</guid>
+      <guid>/project/intralocus_conflict/</guid>
       <description>The causes, consequences, and genetic basis of the maladaptation that arises when males and females share a genome.</description>
     </item>
     
     <item>
       <title>Evolution of female choice under intralocus sexual conflict and genotype-by-environment interactions</title>
-      <link>https://www.lukeholman.org/publication/li_and_holman/</link>
+      <link>/publication/li_and_holman/</link>
       <pubDate>Fri, 27 Jul 2018 13:06:30 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/li_and_holman/</guid>
+      <guid>/publication/li_and_holman/</guid>
       <description>We use theoretical models to examine the evolution of female choice when there is both intralocus sexual conflict and local adaptation. We show that IASC can weaken female preferences for high-condition males &amp;ndash; or even cause a preference for males in low condition &amp;ndash; depending on the relative benefits of producing well-adapted sons versus daughters. We discuss the relevance of our results to conservation genetics and empirical evolutionary biology.</description>
     </item>
     
     <item>
       <title>The effects of stress and sex on selection, genetic covariance, and the evolutionary response</title>
-      <link>https://www.lukeholman.org/publication/stress_and_sex/</link>
+      <link>/publication/stress_and_sex/</link>
       <pubDate>Sun, 27 Aug 2017 17:28:33 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/stress_and_sex/</guid>
+      <guid>/publication/stress_and_sex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sexual selection expedites the evolution of pesticide resistance</title>
-      <link>https://www.lukeholman.org/publication/ss_pesticide/</link>
+      <link>/publication/ss_pesticide/</link>
       <pubDate>Sat, 27 Aug 2016 19:29:27 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/ss_pesticide/</guid>
+      <guid>/publication/ss_pesticide/</guid>
       <description>Using experimental evolution, we test whether allowing or preventing sexual selection on males affects the rate at which flour beetle populations evolve resistance (and susceptibility) to insecticide.</description>
     </item>
     
     <item>
       <title>Ornament complexity is correlated with sexual selection: a comment on Raia et al</title>
-      <link>https://www.lukeholman.org/publication/antler_comment/</link>
+      <link>/publication/antler_comment/</link>
       <pubDate>Sat, 27 Aug 2016 19:18:15 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/antler_comment/</guid>
+      <guid>/publication/antler_comment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bet hedging via multiple mating: a meta-analysis</title>
-      <link>https://www.lukeholman.org/publication/bet_hedging_ma/</link>
+      <link>/publication/bet_hedging_ma/</link>
       <pubDate>Fri, 28 Aug 2015 13:27:42 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/bet_hedging_ma/</guid>
+      <guid>/publication/bet_hedging_ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bet-hedging via polyandry: A comment on &#39;Mating portfolios: bet-hedging, sexual selection and female multiple mating&#39;</title>
-      <link>https://www.lukeholman.org/publication/bet_hedging_commentary/</link>
+      <link>/publication/bet_hedging_commentary/</link>
       <pubDate>Fri, 28 Aug 2015 13:16:26 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/bet_hedging_commentary/</guid>
+      <guid>/publication/bet_hedging_commentary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing the alignment of sexual and natural selection using radio-mutagenized seed beetles</title>
-      <link>https://www.lukeholman.org/publication/beetle_mutagenesis/</link>
+      <link>/publication/beetle_mutagenesis/</link>
       <pubDate>Fri, 28 Aug 2015 13:13:48 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/beetle_mutagenesis/</guid>
+      <guid>/publication/beetle_mutagenesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Female preferences for timing in a fiddler crab with synchronous courtship waving displays</title>
-      <link>https://www.lukeholman.org/publication/synchronous_waving/</link>
+      <link>/publication/synchronous_waving/</link>
       <pubDate>Thu, 28 Aug 2014 16:01:13 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/synchronous_waving/</guid>
+      <guid>/publication/synchronous_waving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Even more functions of sperm RNA: a response to Hosken and Hodgson</title>
-      <link>https://www.lukeholman.org/publication/sperm_rna/</link>
+      <link>/publication/sperm_rna/</link>
       <pubDate>Thu, 28 Aug 2014 15:52:51 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/sperm_rna/</guid>
+      <guid>/publication/sperm_rna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local adaptation and the evolution of female choice</title>
-      <link>https://www.lukeholman.org/publication/gxe_chapter/</link>
+      <link>/publication/gxe_chapter/</link>
       <pubDate>Thu, 28 Aug 2014 15:38:09 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/gxe_chapter/</guid>
+      <guid>/publication/gxe_chapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polyandrous females found fitter populations</title>
-      <link>https://www.lukeholman.org/publication/polyandrous_females_found_fitter/</link>
+      <link>/publication/polyandrous_females_found_fitter/</link>
       <pubDate>Thu, 28 Aug 2014 15:22:47 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/polyandrous_females_found_fitter/</guid>
+      <guid>/publication/polyandrous_females_found_fitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiddlers on the roof: elevation muddles mate choice in fiddler crabs</title>
-      <link>https://www.lukeholman.org/publication/fiddlers_roof/</link>
+      <link>/publication/fiddlers_roof/</link>
       <pubDate>Thu, 28 Aug 2014 15:13:42 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/fiddlers_roof/</guid>
+      <guid>/publication/fiddlers_roof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic constraints on dishonesty and caste dimorphism in an ant</title>
-      <link>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</link>
+      <link>/publication/amnat_ant_quant_gen/</link>
       <pubDate>Wed, 28 Aug 2013 16:04:59 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/amnat_ant_quant_gen/</guid>
+      <guid>/publication/amnat_ant_quant_gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The consequences of polyandry for population viability, extinction risk and conservation</title>
-      <link>https://www.lukeholman.org/publication/polyandry_populations/</link>
+      <link>/publication/polyandry_populations/</link>
       <pubDate>Mon, 28 Jan 2013 16:21:40 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/polyandry_populations/</guid>
+      <guid>/publication/polyandry_populations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Costs and constraints conspire to produce honest signaling: insights from an ant queen pheromone</title>
-      <link>https://www.lukeholman.org/publication/evolution_honest_signals/</link>
+      <link>/publication/evolution_honest_signals/</link>
       <pubDate>Tue, 28 Feb 2012 16:28:26 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/evolution_honest_signals/</guid>
+      <guid>/publication/evolution_honest_signals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random sperm use and genetic effects on worker caste fate in Atta colombica leaf‐cutting ants</title>
-      <link>https://www.lukeholman.org/publication/atta_sperm/</link>
+      <link>/publication/atta_sperm/</link>
       <pubDate>Mon, 28 Nov 2011 17:21:46 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/atta_sperm/</guid>
+      <guid>/publication/atta_sperm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terminal investment in multiple sexual signals: immune‐challenged males produce more attractive pheromones</title>
-      <link>https://www.lukeholman.org/publication/terminal_beetles_2011/</link>
+      <link>/publication/terminal_beetles_2011/</link>
       <pubDate>Wed, 28 Sep 2011 17:12:37 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/terminal_beetles_2011/</guid>
+      <guid>/publication/terminal_beetles_2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sperm viability staining in ecology and evolution: potential pitfalls</title>
-      <link>https://www.lukeholman.org/publication/sperm_viability/</link>
+      <link>/publication/sperm_viability/</link>
       <pubDate>Mon, 28 Sep 2009 16:58:56 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/sperm_viability/</guid>
+      <guid>/publication/sperm_viability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drosophila melanogaster seminal fluid can protect the sperm of other males</title>
-      <link>https://www.lukeholman.org/publication/seminal_fluid_protects_sperm/</link>
+      <link>/publication/seminal_fluid_protects_sperm/</link>
       <pubDate>Wed, 28 Jan 2009 16:55:51 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/seminal_fluid_protects_sperm/</guid>
+      <guid>/publication/seminal_fluid_protects_sperm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A sterile sperm caste protects brother fertile sperm from female-mediated death in Drosophila pseudoobscura</title>
-      <link>https://www.lukeholman.org/publication/sperm_current_biology/</link>
+      <link>/publication/sperm_current_biology/</link>
       <pubDate>Thu, 28 Feb 2008 17:04:12 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/sperm_current_biology/</guid>
+      <guid>/publication/sperm_current_biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What use is an infertile sperm? A comparative test of parasperm function in sperm-heteromorphic Drosophila</title>
-      <link>https://www.lukeholman.org/publication/sperm_comparative_evolution/</link>
+      <link>/publication/sperm_comparative_evolution/</link>
       <pubDate>Tue, 28 Aug 2007 17:00:56 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/sperm_comparative_evolution/</guid>
+      <guid>/publication/sperm_comparative_evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spermicide, cryptic female choice and the evolution of sperm form and function</title>
-      <link>https://www.lukeholman.org/publication/spermicide_model/</link>
+      <link>/publication/spermicide_model/</link>
       <pubDate>Fri, 28 Apr 2006 17:10:23 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/spermicide_model/</guid>
+      <guid>/publication/spermicide_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modulation of sexual signalling by immune challenged male mealworm beetles (Tenebrio molitor, L.): evidence for terminal investment and dishonesty</title>
-      <link>https://www.lukeholman.org/publication/terminal_beetles_2006/</link>
+      <link>/publication/terminal_beetles_2006/</link>
       <pubDate>Sat, 28 Jan 2006 17:07:26 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/terminal_beetles_2006/</guid>
+      <guid>/publication/terminal_beetles_2006/</guid>
       <description></description>
     </item>
     

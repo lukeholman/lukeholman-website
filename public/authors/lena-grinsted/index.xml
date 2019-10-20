@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lena Grinsted on Luke Holman</title>
-    <link>https://www.lukeholman.org/authors/lena-grinsted/</link>
+    <link>/authors/lena-grinsted/</link>
     <description>Recent content in Lena Grinsted on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Apr 2011 16:32:36 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/authors/lena-grinsted/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/lena-grinsted/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wax on, wax off: Nest soil facilitates indirect transfer of recognition cues between ant nestmates</title>
-      <link>https://www.lukeholman.org/publication/wax_on_wax_off/</link>
+      <link>/publication/wax_on_wax_off/</link>
       <pubDate>Thu, 28 Apr 2011 16:32:36 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/wax_on_wax_off/</guid>
+      <guid>/publication/wax_on_wax_off/</guid>
       <description></description>
     </item>
     

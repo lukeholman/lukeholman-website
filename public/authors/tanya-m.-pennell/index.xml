@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanya M. Pennell on Luke Holman</title>
-    <link>https://www.lukeholman.org/authors/tanya-m.-pennell/</link>
+    <link>/authors/tanya-m.-pennell/</link>
     <description>Recent content in Tanya M. Pennell on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jan 2018 16:32:06 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/authors/tanya-m.-pennell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/tanya-m.-pennell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building a new research framework for social evolution: Intralocus caste antagonism</title>
-      <link>https://www.lukeholman.org/publication/pennell_caste_and_sex/</link>
+      <link>/publication/pennell_caste_and_sex/</link>
       <pubDate>Sat, 27 Jan 2018 16:32:06 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/pennell_caste_and_sex/</guid>
+      <guid>/publication/pennell_caste_and_sex/</guid>
       <description></description>
     </item>
     
