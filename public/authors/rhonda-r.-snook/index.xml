@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhonda R. Snook on Luke Holman</title>
-    <link>https://www.lukeholman.org/authors/rhonda-r.-snook/</link>
+    <link>/authors/rhonda-r.-snook/</link>
     <description>Recent content in Rhonda R. Snook on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2008 17:04:12 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/authors/rhonda-r.-snook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/rhonda-r.-snook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A sterile sperm caste protects brother fertile sperm from female-mediated death in Drosophila pseudoobscura</title>
-      <link>https://www.lukeholman.org/publication/sperm_current_biology/</link>
+      <link>/publication/sperm_current_biology/</link>
       <pubDate>Thu, 28 Feb 2008 17:04:12 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/sperm_current_biology/</guid>
+      <guid>/publication/sperm_current_biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What use is an infertile sperm? A comparative test of parasperm function in sperm-heteromorphic Drosophila</title>
-      <link>https://www.lukeholman.org/publication/sperm_comparative_evolution/</link>
+      <link>/publication/sperm_comparative_evolution/</link>
       <pubDate>Tue, 28 Aug 2007 17:00:56 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/sperm_comparative_evolution/</guid>
+      <guid>/publication/sperm_comparative_evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spermicide, cryptic female choice and the evolution of sperm form and function</title>
-      <link>https://www.lukeholman.org/publication/spermicide_model/</link>
+      <link>/publication/spermicide_model/</link>
       <pubDate>Fri, 28 Apr 2006 17:10:23 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/spermicide_model/</guid>
+      <guid>/publication/spermicide_model/</guid>
       <description></description>
     </item>
     

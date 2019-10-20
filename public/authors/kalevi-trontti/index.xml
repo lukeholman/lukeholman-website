@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kalevi Trontti on Luke Holman</title>
-    <link>https://www.lukeholman.org/authors/kalevi-trontti/</link>
+    <link>/authors/kalevi-trontti/</link>
     <description>Recent content in Kalevi Trontti on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 16:04:59 +1000</lastBuildDate>
     
-	<atom:link href="https://www.lukeholman.org/authors/kalevi-trontti/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/kalevi-trontti/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comparative transcriptomics of social insect queen pheromones</title>
-      <link>https://www.lukeholman.org/publication/pheromone_rnaseq/</link>
+      <link>/publication/pheromone_rnaseq/</link>
       <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/pheromone_rnaseq/</guid>
-      <description></description>
+      <guid>/publication/pheromone_rnaseq/</guid>
+      <description>Many ants, bees, and wasps use similar or identical chemicals as queen pheromones, even though these taxa diverged &amp;gt;150MYA, and evolved eusociality independently. Here, we use mRNA sequencing to identify queen pheromone-sensitive genes in 4 ant and bee species, and show that pheromones affect many of the same transcriptional modules. Pheromone-sensitive genes tend to be ancient, positively selected, peripheral in transcriptomic networks, hypomethylated, and caste-specific in their expression.</description>
     </item>
     
     <item>
       <title>Queen pheromones modulate DNA methyltransferase activity in bee and ant workers</title>
-      <link>https://www.lukeholman.org/publication/methylation_and_pheromones/</link>
+      <link>/publication/methylation_and_pheromones/</link>
       <pubDate>Sat, 27 Aug 2016 18:24:21 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/methylation_and_pheromones/</guid>
+      <guid>/publication/methylation_and_pheromones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random sperm use and genetic effects on worker caste fate in Atta colombica leaf‐cutting ants</title>
-      <link>https://www.lukeholman.org/publication/atta_sperm/</link>
+      <link>/publication/atta_sperm/</link>
       <pubDate>Mon, 28 Nov 2011 17:21:46 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/publication/atta_sperm/</guid>
+      <guid>/publication/atta_sperm/</guid>
       <description></description>
     </item>
     
