@@ -41,7 +41,7 @@ projects = ["gene_drives", "sperm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Gene drives", "Evolutionary conflict", "Theoretical model"]
+tags = ["Gene drives", "Evolutionary conflict", "Theoretical model", "Drosophila"]
 
 # Links (optional).
 url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12595"

@@ -41,7 +41,7 @@ projects = ["intralocus_conflict", "sexual_selection"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Mitochondrial DNA", "Sexual selection"]
+tags = ["Mitochondrial DNA", "Sexual selection", "Drosophila", "Evolutionary conflict"]
 
 # Links (optional).
 url_pdf = ""

@@ -40,7 +40,7 @@ projects = ["sexual_selection", "sperm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Sexual selection", "Sperm"]
+tags = ["Sexual selection", "Sperm", "Drosophila"]
 
 # Links (optional).
 url_pdf = "https://core.ac.uk/download/pdf/81961410.pdf"
