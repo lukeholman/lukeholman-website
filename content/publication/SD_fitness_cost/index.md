@@ -1,5 +1,5 @@
 +++
-title = "Fitness consequences of the selfish supergene _Segregation Distorter_"
+title = "Fitness consequences of the selfish supergene Segregation Distorter"
 date = 2019-11-07T16:04:59+10:00
 draft = false
 
