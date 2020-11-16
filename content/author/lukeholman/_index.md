@@ -9,11 +9,11 @@ authors = ["lukeholman"]
 superuser = true
 
 # Role/position
-role = "Senior Lecturer"
+role = "Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Melbourne", url = "" } ]
+organizations = [ { name = "Edinburgh Napier University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -37,9 +37,14 @@ user_groups = ""
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Senior lecturer"
+  course = "Lecturer"
+  institution = "Edinburgh Napier University"
+  year = "2020-present"
+  
+[[education.courses]]
+  course = "Senior Lecturer"
   institution = "University of Melbourne"
-  year = "2016-present"
+  year = "2016-2020"
   
 [[education.courses]]
   course = "DECRA fellow and postdoc"
@@ -64,7 +69,7 @@ user_groups = ""
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:luke.holman@unimelb.edu.au"
+  link = "mailto:lukeholman@gmail.com"
 
 [[social]]
   icon = "twitter"
@@ -90,4 +95,4 @@ user_groups = ""
 
 +++
 
-I'm a lecturer in the [School of BioSciences](https://biosciences.unimelb.edu.au/) at the University of Melbourne. I mostly study the evolution and genetics of sex, sociality and communication. I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps) with theoretical models, 'omics, meta-analysis, and text mining. I am a handling editor for _[Behavioral Ecology](https://academic.oup.com/beheco)_, and the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_. I'm a big fan of open and reproducible science, and so I often write detailed reports [like this](https://lukeholman.github.io/queen-pheromone-RNAseq/) to help share my methods.
+I'm a lecturer in the [Animal and Plant Science Research Group](https://www.napier.ac.uk/research-and-innovation/research-search/centres/animal-and-plant-science-research-group) at [Edinburgh Napier University](https://www.napier.ac.uk/). I mostly study the evolution and genetics of sex, sociality and communication. I combine empirical work on insects such as _Drosophila_ and social Hymenoptera (bees/ants/wasps) with theoretical models, 'omics, meta-analysis, and text mining. I am also the Reviews Editor for _[Journal of Evolutionary Biology](https://onlinelibrary.wiley.com/journal/14209101)_. I'm a big fan of open and reproducible science, and so I often write detailed reports [like this](https://lukeholman.github.io/queen-pheromone-RNAseq/) to help share my methods.

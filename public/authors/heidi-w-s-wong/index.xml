@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heidi W S Wong on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/heidi-w-s-wong/</link>
+    <description>Recent content in Heidi W S Wong on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2019 16:04:59 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/heidi-w-s-wong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mother’s curse and indirect genetic effects: do males matter to mitochondrial genome evolution?</title>
+      <link>https://www.lukeholman.org/publication/tom_mito1/</link>
+      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/tom_mito1/</guid>
+      <description>We argue that the effects of mitochondrial DNA on a male phenotype can respond to selection, provided that males interact with their female &amp;lsquo;mitochondrial relatives&amp;rsquo;, and that the male phenotype affects female fitness. We present experimental evidence that female fitness depends on the mitochondrial DNA carried by interacting males, and discuss the implications for &amp;lsquo;mother&amp;rsquo;s curse&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Fitness consequences of the selfish supergene Segregation Distorter</title>
+      <link>https://www.lukeholman.org/publication/sd_fitness_cost/</link>
+      <pubDate>Thu, 07 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/sd_fitness_cost/</guid>
+      <description>We measured the effects of a natural gene drive, &lt;em&gt;Segregation Distorter&lt;/em&gt; (&lt;em&gt;SD&lt;/em&gt;), on fitness in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;. We find that &lt;em&gt;SD&lt;/em&gt; is very costly, especially when homozygous, and that it also has transgenerational effects on offspring fitness and sex ratio. Using a model, we show that these effects may explain the puzzling rarity of &lt;em&gt;SD&lt;/em&gt; in nature.</description>
+    </item>
+    
+  </channel>
+</rss>

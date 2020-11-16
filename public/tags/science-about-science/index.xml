@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science about science on Luke Holman</title>
-    <link>/tags/science-about-science/</link>
+    <link>https://www.lukeholman.org/tags/science-about-science/</link>
     <description>Recent content in Science about science on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 May 2019 15:49:03 +1000</lastBuildDate>
     
-	<atom:link href="/tags/science-about-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/tags/science-about-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Researchers collaborate with same-gendered colleagues more often than expected across the life sciences</title>
-      <link>/publication/homophily/</link>
+      <link>https://www.lukeholman.org/publication/homophily/</link>
       <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
       
-      <guid>/publication/homophily/</guid>
+      <guid>https://www.lukeholman.org/publication/homophily/</guid>
       <description>We find that researchers tend to co-publish with same-gendered colleagues, and that this tendency is presently increasing. We found no evidence that senior academics drive this pattern, or that the pattern is stronger in fields where women are in the minority. Interestingly, journals with a high impact factor for their discipline tended to have comparatively many mixed-gender teams.</description>
     </item>
     
     <item>
       <title>Sexual selection improves population fitness: a systematic review and meta-analysis</title>
-      <link>/publication/justin_metaanalysis/</link>
+      <link>https://www.lukeholman.org/publication/justin_metaanalysis/</link>
       <pubDate>Thu, 28 Feb 2019 16:04:59 +1000</pubDate>
       
-      <guid>/publication/justin_metaanalysis/</guid>
+      <guid>https://www.lukeholman.org/publication/justin_metaanalysis/</guid>
       <description>We synthesised 459 effect sizes from 65 pertinent experimental evolution studies using meta-analysis, and found that sexual selection on males tends to elevate the mean and reduce the variance for many fitness traits. The beneficial effect was stronger in female traits than males, and for populations evolving under stressful conditions. The results have implications for conservation and captive breeding programs.</description>
     </item>
     
     <item>
       <title>Science about science</title>
-      <link>/project/science_about_science/</link>
+      <link>https://www.lukeholman.org/project/science_about_science/</link>
       <pubDate>Tue, 28 Aug 2018 13:09:44 +1000</pubDate>
       
-      <guid>/project/science_about_science/</guid>
+      <guid>https://www.lukeholman.org/project/science_about_science/</guid>
       <description>Research about science itself: research practice, bias, reproducibility, and culture. Mostly text mining.</description>
     </item>
     
     <item>
       <title>The gender gap in science: how long until women are equally represented?</title>
-      <link>/publication/gender_gap/</link>
+      <link>https://www.lukeholman.org/publication/gender_gap/</link>
       <pubDate>Mon, 27 Aug 2018 13:06:30 +1000</pubDate>
       
-      <guid>/publication/gender_gap/</guid>
+      <guid>https://www.lukeholman.org/publication/gender_gap/</guid>
       <description>We recorded the gender of 36 million authors from &amp;gt;100 countries publishing in &amp;gt;6000 journals from most STEMM, and made a &lt;a href=&#34;https://lukeholman.github.io/genderGap/&#34; target=&#34;_blank&#34;&gt;web app&lt;/a&gt; facilitating exploration of the data. Despite recent progress, the gender gap appears likely to persist for generations.</description>
     </item>
     
     <item>
       <title>Evidence of experimental bias in the life sciences: why we need blind data recording</title>
-      <link>/publication/blind_data_recording/</link>
+      <link>https://www.lukeholman.org/publication/blind_data_recording/</link>
       <pubDate>Fri, 28 Aug 2015 13:19:27 +1000</pubDate>
       
-      <guid>/publication/blind_data_recording/</guid>
+      <guid>https://www.lukeholman.org/publication/blind_data_recording/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The extent and consequences of p-hacking in science</title>
-      <link>/publication/p_hacking/</link>
+      <link>https://www.lukeholman.org/publication/p_hacking/</link>
       <pubDate>Fri, 28 Aug 2015 13:07:13 +1000</pubDate>
       
-      <guid>/publication/p_hacking/</guid>
+      <guid>https://www.lukeholman.org/publication/p_hacking/</guid>
       <description></description>
     </item>
     

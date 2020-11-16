@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Marsh on Luke Holman</title>
-    <link>/authors/jason-marsh/</link>
+    <link>https://www.lukeholman.org/authors/jason-marsh/</link>
     <description>Recent content in Jason Marsh on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Aug 2016 19:29:27 +1000</lastBuildDate>
     
-	<atom:link href="/authors/jason-marsh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/authors/jason-marsh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sexual selection expedites the evolution of pesticide resistance</title>
-      <link>/publication/ss_pesticide/</link>
+      <link>https://www.lukeholman.org/publication/ss_pesticide/</link>
       <pubDate>Sat, 27 Aug 2016 19:29:27 +1000</pubDate>
       
-      <guid>/publication/ss_pesticide/</guid>
+      <guid>https://www.lukeholman.org/publication/ss_pesticide/</guid>
       <description>Using experimental evolution, we test whether allowing or preventing sexual selection on males affects the rate at which flour beetle populations evolve resistance (and susceptibility) to insecticide.</description>
     </item>
     

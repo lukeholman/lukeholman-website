@@ -2,93 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Luke Holman</title>
-    <link>/tags/</link>
+    <link>https://www.lukeholman.org/tags/</link>
     <description>Recent content in Tags on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 16:04:59 +1000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukeholman.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Gene drives</title>
-      <link>/tags/gene-drives/</link>
-      <pubDate>Sun, 20 Oct 2019 16:04:59 +1000</pubDate>
-      
-      <guid>/tags/gene-drives/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Theoretical model</title>
-      <link>/tags/theoretical-model/</link>
-      <pubDate>Sun, 20 Oct 2019 16:04:59 +1000</pubDate>
+      <title>Drosophila</title>
+      <link>https://www.lukeholman.org/tags/drosophila/</link>
+      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
       
-      <guid>/tags/theoretical-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gender gap</title>
-      <link>/tags/gender-gap/</link>
-      <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
-      
-      <guid>/tags/gender-gap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science about science</title>
-      <link>/tags/science-about-science/</link>
-      <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
-      
-      <guid>/tags/science-about-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Queen pheromones</title>
-      <link>/tags/queen-pheromones/</link>
-      <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
-      
-      <guid>/tags/queen-pheromones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social insects</title>
-      <link>/tags/social-insects/</link>
-      <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
-      
-      <guid>/tags/social-insects/</guid>
+      <guid>https://www.lukeholman.org/tags/drosophila/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary conflict</title>
-      <link>/tags/evolutionary-conflict/</link>
-      <pubDate>Thu, 28 Feb 2019 16:04:59 +1000</pubDate>
+      <link>https://www.lukeholman.org/tags/evolutionary-conflict/</link>
+      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
       
-      <guid>/tags/evolutionary-conflict/</guid>
+      <guid>https://www.lukeholman.org/tags/evolutionary-conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial DNA</title>
+      <link>https://www.lukeholman.org/tags/mitochondrial-dna/</link>
+      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/mitochondrial-dna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sexual selection</title>
-      <link>/tags/sexual-selection/</link>
-      <pubDate>Thu, 28 Feb 2019 16:04:59 +1000</pubDate>
+      <link>https://www.lukeholman.org/tags/sexual-selection/</link>
+      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
       
-      <guid>/tags/sexual-selection/</guid>
+      <guid>https://www.lukeholman.org/tags/sexual-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene drives</title>
+      <link>https://www.lukeholman.org/tags/gene-drives/</link>
+      <pubDate>Thu, 07 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/gene-drives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical model</title>
+      <link>https://www.lukeholman.org/tags/theoretical-model/</link>
+      <pubDate>Thu, 07 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/theoretical-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender gap</title>
+      <link>https://www.lukeholman.org/tags/gender-gap/</link>
+      <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/gender-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science about science</title>
+      <link>https://www.lukeholman.org/tags/science-about-science/</link>
+      <pubDate>Sat, 11 May 2019 15:49:03 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/science-about-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queen pheromones</title>
+      <link>https://www.lukeholman.org/tags/queen-pheromones/</link>
+      <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/queen-pheromones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social insects</title>
+      <link>https://www.lukeholman.org/tags/social-insects/</link>
+      <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/social-insects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sperm</title>
-      <link>/tags/sperm/</link>
+      <link>https://www.lukeholman.org/tags/sperm/</link>
       <pubDate>Thu, 28 Aug 2014 15:52:51 +1000</pubDate>
       
-      <guid>/tags/sperm/</guid>
+      <guid>https://www.lukeholman.org/tags/sperm/</guid>
       <description></description>
     </item>
     
