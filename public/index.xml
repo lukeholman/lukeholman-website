@@ -5,8 +5,44 @@
     <description>Recent content in Luke Holman on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 16:04:59 +1000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Social immunity and chemical communication in the honeybee: immune-challenged bees enter enforced or self-imposed exile</title>
+      <link>https://www.lukeholman.org/publication/tarli_immunity/</link>
+      <pubDate>Sat, 22 Aug 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/tarli_immunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance to natural and synthetic gene drive systems</title>
+      <link>https://www.lukeholman.org/publication/drive_target_review/</link>
+      <pubDate>Thu, 13 Aug 2020 18:55:53 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/drive_target_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sibling rivalry versus mother&#39;s curse: can kin competition facilitate a response to selection on male mitochondria?</title>
+      <link>https://www.lukeholman.org/publication/tom_mito2/</link>
+      <pubDate>Wed, 01 Jul 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/tom_mito2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An X-linked meiotic drive allele has strong, recessive fitness costs in female Drosophila pseudoobscura</title>
+      <link>https://www.lukeholman.org/publication/dpseudo_sr_cost/</link>
+      <pubDate>Wed, 27 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/dpseudo_sr_cost/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mother’s curse and indirect genetic effects: do males matter to mitochondrial genome evolution?</title>
@@ -124,43 +160,6 @@
       <guid>https://www.lukeholman.org/project/intralocus_conflict/</guid>
       <description>&lt;p&gt;Intralocus sexual conflict occurs when different trait values are favoured by selection on males versus females, but each sex is constrained from evolving towards its own phenotypic optimum by genetic correlations between male and female traits. For example, the selectively optimum body size is often different between the sexes, yet male and female body size are largely affected by the same loci, meaning that the sexes evolve to some sort of maladaptive compromise (creating the so-called &amp;lsquo;gender load&amp;rsquo;). Intralocus sexual conflict is a fascinating process with many improlications for conservation biology, as well as many of the big questions in evolutionary biology (such as the evolution of sex problem and the lek paradox).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Evolution in social insects</title>
-      <link>https://www.lukeholman.org/project/social_insects/</link>
-      <pubDate>Mon, 27 Aug 2018 16:10:20 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/project/social_insects/</guid>
-      <description>&lt;p&gt;The eusocial insects (e.g. bees, ants, wasps, and termites) are united by a remakable trait: some individuals give up the opportunity to reproduce, and instead acts as helpers to enhance the reproduction of other individuals. I am interested in how and why the social insect &amp;lsquo;caste system&amp;rsquo; of queens and workers evolved, and how evolution has shaped their biology. I am especially interested in the role of queen pheromones in evolution and colony life.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The gender gap in science: how long until women are equally represented?</title>
-      <link>https://www.lukeholman.org/publication/gender_gap/</link>
-      <pubDate>Mon, 27 Aug 2018 13:06:30 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/publication/gender_gap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution of female choice under intralocus sexual conflict and genotype-by-environment interactions</title>
-      <link>https://www.lukeholman.org/publication/li_and_holman/</link>
-      <pubDate>Fri, 27 Jul 2018 13:06:30 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/publication/li_and_holman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Onwards and upwards: a response to comments on Holman</title>
-      <link>https://www.lukeholman.org/publication/be_reply/</link>
-      <pubDate>Sun, 27 May 2018 16:26:57 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/publication/be_reply/</guid>
-      <description></description>
     </item>
     
   </channel>

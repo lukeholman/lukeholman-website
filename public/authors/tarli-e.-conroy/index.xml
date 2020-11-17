@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tarli E. Conroy on Luke Holman</title>
+    <link>https://www.lukeholman.org/authors/tarli-e.-conroy/</link>
+    <description>Recent content in Tarli E. Conroy on Luke Holman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 16:04:59 +1000</lastBuildDate>
+    
+	<atom:link href="https://www.lukeholman.org/authors/tarli-e.-conroy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social immunity and chemical communication in the honeybee: immune-challenged bees enter enforced or self-imposed exile</title>
+      <link>https://www.lukeholman.org/publication/tarli_immunity/</link>
+      <pubDate>Sat, 22 Aug 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/tarli_immunity/</guid>
+      <description>We examined the fate of experimentally immune-challenged worker honeybees that had been reintroduced to the hive. We find that they often leave the hive, both by &amp;lsquo;altruistically&amp;rsquo; leaving under their own power, and by being dragged out by other workers. Using a chemical transfer experiment, we show that the latter response is mediated by chemicals present on the body surface of immune challenged workers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in C. Montchamp-Moreau on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2016 18:55:53 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 18:55:53 +1000</lastBuildDate>
     
 	<atom:link href="https://www.lukeholman.org/authors/c.-montchamp-moreau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resistance to natural and synthetic gene drive systems</title>
+      <link>https://www.lukeholman.org/publication/drive_target_review/</link>
+      <pubDate>Thu, 13 Aug 2020 18:55:53 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/drive_target_review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The ecology and evolutionary dynamics of meiotic drive</title>

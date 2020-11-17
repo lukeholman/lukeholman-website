@@ -40,7 +40,7 @@ projects = ["social_insects", "queen_pheromones"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Social insects", "Queen pheromones"]
+tags = ["Social insects", "Queen pheromones", "Immunity"]
 
 # Links (optional).
 url_pdf = "http://rspb.royalsocietypublishing.org/content/277/1701/3793.short"

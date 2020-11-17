@@ -6,10 +6,46 @@
     <description>Recent content in Publications on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 16:04:59 +1000</lastBuildDate>
     
 	<atom:link href="https://www.lukeholman.org/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Social immunity and chemical communication in the honeybee: immune-challenged bees enter enforced or self-imposed exile</title>
+      <link>https://www.lukeholman.org/publication/tarli_immunity/</link>
+      <pubDate>Sat, 22 Aug 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/tarli_immunity/</guid>
+      <description>We examined the fate of experimentally immune-challenged worker honeybees that had been reintroduced to the hive. We find that they often leave the hive, both by &amp;lsquo;altruistically&amp;rsquo; leaving under their own power, and by being dragged out by other workers. Using a chemical transfer experiment, we show that the latter response is mediated by chemicals present on the body surface of immune challenged workers.</description>
+    </item>
+    
+    <item>
+      <title>Resistance to natural and synthetic gene drive systems</title>
+      <link>https://www.lukeholman.org/publication/drive_target_review/</link>
+      <pubDate>Thu, 13 Aug 2020 18:55:53 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/drive_target_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sibling rivalry versus mother&#39;s curse: can kin competition facilitate a response to selection on male mitochondria?</title>
+      <link>https://www.lukeholman.org/publication/tom_mito2/</link>
+      <pubDate>Wed, 01 Jul 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/tom_mito2/</guid>
+      <description>We find evidence that the mitochondrial DNA carried by &lt;em&gt;Drosophila&lt;/em&gt; larvae affects the fitness of other cohabiting larvae &amp;ndash; a mitochondrial &amp;lsquo;indirect genetic effect&amp;rsquo;. This result implies that the effects of mitochondrial DNA on the phenotype of males (specifically, male larvae) may have evolutionary consequences, in contrast to the received wisdom that mtDNA inside males is &amp;lsquo;invisible to selection&amp;rsquo; due to maternal inheritance of mtDNA.</description>
+    </item>
+    
+    <item>
+      <title>An X-linked meiotic drive allele has strong, recessive fitness costs in female Drosophila pseudoobscura</title>
+      <link>https://www.lukeholman.org/publication/dpseudo_sr_cost/</link>
+      <pubDate>Wed, 27 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/dpseudo_sr_cost/</guid>
+      <description>We measured the effects of a natural gene drive, &lt;em&gt;Sex Ratio&lt;/em&gt; (&lt;em&gt;SR&lt;/em&gt;), on fitness in &lt;em&gt;Drosophila pseudoobscura&lt;/em&gt;. We find that &lt;em&gt;SD&lt;/em&gt; is very costly, especially when homozygous, and that it also has transgenerational effects on offspring fitness and sex ratio. Using a model, we show that these effects may explain the frequency and clinal patterns of &lt;em&gt;SR&lt;/em&gt; in nature.</description>
+    </item>
     
     <item>
       <title>Mother’s curse and indirect genetic effects: do males matter to mitochondrial genome evolution?</title>

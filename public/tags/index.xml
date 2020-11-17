@@ -6,33 +6,60 @@
     <description>Recent content in Tags on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 16:04:59 +1000</lastBuildDate>
     
 	<atom:link href="https://www.lukeholman.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Drosophila</title>
-      <link>https://www.lukeholman.org/tags/drosophila/</link>
-      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
+      <title>Immunity</title>
+      <link>https://www.lukeholman.org/tags/immunity/</link>
+      <pubDate>Sat, 22 Aug 2020 16:04:59 +1000</pubDate>
       
-      <guid>https://www.lukeholman.org/tags/drosophila/</guid>
+      <guid>https://www.lukeholman.org/tags/immunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social insects</title>
+      <link>https://www.lukeholman.org/tags/social-insects/</link>
+      <pubDate>Sat, 22 Aug 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/social-insects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary conflict</title>
       <link>https://www.lukeholman.org/tags/evolutionary-conflict/</link>
-      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
+      <pubDate>Thu, 13 Aug 2020 18:55:53 +1000</pubDate>
       
       <guid>https://www.lukeholman.org/tags/evolutionary-conflict/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Gene drives</title>
+      <link>https://www.lukeholman.org/tags/gene-drives/</link>
+      <pubDate>Thu, 13 Aug 2020 18:55:53 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/gene-drives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drosophila</title>
+      <link>https://www.lukeholman.org/tags/drosophila/</link>
+      <pubDate>Wed, 01 Jul 2020 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/tags/drosophila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mitochondrial DNA</title>
       <link>https://www.lukeholman.org/tags/mitochondrial-dna/</link>
-      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 16:04:59 +1000</pubDate>
       
       <guid>https://www.lukeholman.org/tags/mitochondrial-dna/</guid>
       <description></description>
@@ -41,25 +68,16 @@
     <item>
       <title>Sexual selection</title>
       <link>https://www.lukeholman.org/tags/sexual-selection/</link>
-      <pubDate>Fri, 08 Nov 2019 16:04:59 +1000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 16:04:59 +1000</pubDate>
       
       <guid>https://www.lukeholman.org/tags/sexual-selection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gene drives</title>
-      <link>https://www.lukeholman.org/tags/gene-drives/</link>
-      <pubDate>Thu, 07 Nov 2019 16:04:59 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/tags/gene-drives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Theoretical model</title>
       <link>https://www.lukeholman.org/tags/theoretical-model/</link>
-      <pubDate>Thu, 07 Nov 2019 16:04:59 +1000</pubDate>
+      <pubDate>Wed, 27 Nov 2019 16:04:59 +1000</pubDate>
       
       <guid>https://www.lukeholman.org/tags/theoretical-model/</guid>
       <description></description>
@@ -89,15 +107,6 @@
       <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
       
       <guid>https://www.lukeholman.org/tags/queen-pheromones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social insects</title>
-      <link>https://www.lukeholman.org/tags/social-insects/</link>
-      <pubDate>Fri, 01 Mar 2019 16:04:59 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/tags/social-insects/</guid>
       <description></description>
     </item>
     

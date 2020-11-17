@@ -6,10 +6,28 @@
     <description>Recent content in Gene drives on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 18:55:53 +1000</lastBuildDate>
     
 	<atom:link href="https://www.lukeholman.org/tags/gene-drives/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resistance to natural and synthetic gene drive systems</title>
+      <link>https://www.lukeholman.org/publication/drive_target_review/</link>
+      <pubDate>Thu, 13 Aug 2020 18:55:53 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/drive_target_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An X-linked meiotic drive allele has strong, recessive fitness costs in female Drosophila pseudoobscura</title>
+      <link>https://www.lukeholman.org/publication/dpseudo_sr_cost/</link>
+      <pubDate>Wed, 27 Nov 2019 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/dpseudo_sr_cost/</guid>
+      <description>We measured the effects of a natural gene drive, &lt;em&gt;Sex Ratio&lt;/em&gt; (&lt;em&gt;SR&lt;/em&gt;), on fitness in &lt;em&gt;Drosophila pseudoobscura&lt;/em&gt;. We find that &lt;em&gt;SD&lt;/em&gt; is very costly, especially when homozygous, and that it also has transgenerational effects on offspring fitness and sex ratio. Using a model, we show that these effects may explain the frequency and clinal patterns of &lt;em&gt;SR&lt;/em&gt; in nature.</description>
+    </item>
     
     <item>
       <title>Fitness consequences of the selfish supergene Segregation Distorter</title>

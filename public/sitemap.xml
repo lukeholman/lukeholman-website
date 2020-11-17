@@ -4,7 +4,7 @@
     <url>
     
       <loc>https://www.lukeholman.org/publication_types/2/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://www.lukeholman.org/authors/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,35 +21,8 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/damian-k-dowling/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/drosophila/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/evolutionary-conflict/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/heidi-w-s-wong/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
+      <loc>https://www.lukeholman.org/tags/immunity/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -58,7 +31,7 @@
     <url>
     
       <loc>https://www.lukeholman.org/authors/luke-holman/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -67,7 +40,301 @@
     <url>
     
       <loc>https://www.lukeholman.org/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/publication_types/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/publication/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/publication/tarli_immunity/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/social-insects/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/tarli-e.-conroy/</loc>
+      <lastmod>2020-08-22T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/a.-buchman/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/a.-manser/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/a.-pomiankowski/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/a.-sutter/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/a.k.-lindholm/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/a.m.-laraccuente/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/c.-courret/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/c.-montchamp-moreau/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/evolutionary-conflict/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/gene-drives/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/j-n-runge/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/j.-godwin/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/l.-holman/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/l.g.-barrett/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/m.-legros/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/n.-gemmell/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/n.-mideo/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/n.-windbichler/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/n.l.-nuckolls/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/o.y.-martin/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/p.r.-ross/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/r.l.-unckless/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/publication/drive_target_review/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/t.a.r.-price/</loc>
+      <lastmod>2020-08-13T18:55:53+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/damian-k-dowling/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/drosophila/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/heidi-w-s-wong/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -76,7 +343,77 @@
     <url>
     
       <loc>https://www.lukeholman.org/tags/mitochondrial-dna/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/sexual-selection/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/publication/tom_mito2/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/ther%C3%A9sa-m-jones/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/thomas-a-keaney/</loc>
+      <lastmod>2020-07-01T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/publication/dpseudo_sr_cost/</loc>
+      <lastmod>2019-11-27T16:04:59+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/nina-wedell/</loc>
+      <lastmod>2019-11-27T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/tags/theoretical-model/</loc>
+      <lastmod>2019-11-27T16:04:59+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.lukeholman.org/authors/w.-larner/</loc>
+      <lastmod>2019-11-27T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -92,79 +429,8 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/publication_types/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/publication/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/sexual-selection/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/ther%C3%A9sa-m-jones/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/thomas-a-keaney/</loc>
-      <lastmod>2019-11-08T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.lukeholman.org/publication/sd_fitness_cost/</loc>
       <lastmod>2019-11-07T16:04:59+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/gene-drives/</loc>
-      <lastmod>2019-11-07T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/theoretical-model/</loc>
-      <lastmod>2019-11-07T16:04:59+10:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -250,15 +516,6 @@
     <url>
     
       <loc>https://www.lukeholman.org/tags/queen-pheromones/</loc>
-      <lastmod>2019-03-01T16:04:59+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/tags/social-insects/</loc>
       <lastmod>2019-03-01T16:04:59+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -643,60 +900,6 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/a.-manser/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/a.-pomiankowski/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/a.-sutter/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/a.k.-lindholm/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/a.m.-laraccuente/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/c.-montchamp-moreau/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.lukeholman.org/authors/d.c.-presgraves/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
@@ -751,15 +954,6 @@
     
     <url>
     
-      <loc>https://www.lukeholman.org/authors/l.-holman/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.lukeholman.org/authors/l.d.-safronova/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
@@ -788,24 +982,6 @@
     <url>
     
       <loc>https://www.lukeholman.org/authors/r.c.-firman/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/r.l.-unckless/</loc>
-      <lastmod>2016-02-27T18:55:53+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/t.a.r.-price/</loc>
       <lastmod>2016-02-27T18:55:53+10:00</lastmod>
       <priority>0</priority>
     </url>
@@ -952,15 +1128,6 @@
     <url>
     
       <loc>https://www.lukeholman.org/authors/hanna-kokko/</loc>
-      <lastmod>2015-08-27T17:28:33+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.lukeholman.org/authors/nina-wedell/</loc>
       <lastmod>2015-08-27T17:28:33+10:00</lastmod>
       <priority>0</priority>
     </url>
