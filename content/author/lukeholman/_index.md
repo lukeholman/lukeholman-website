@@ -39,7 +39,7 @@ user_groups = ""
 [[education.courses]]
   course = "Lecturer"
   institution = "Edinburgh Napier University"
-  year = "2020-present"
+  year = "2021-present"
   
 [[education.courses]]
   course = "Senior Lecturer"

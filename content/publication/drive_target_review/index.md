@@ -24,7 +24,7 @@ publication_short = "J Evol Biol"
 
 # Abstract and optional shortened version.
 abstract = "Scientists are rapidly developing synthetic gene drive elements intended for release into natural populations. These are intended to control or eradicate disease vectors and pests, or to spread useful traits through wild populations for disease control or conservation purposes. However, a crucial problem for gene drives is the evolution of resistance against them, preventing their spread. Understanding the mechanisms by which populations might evolve resistance is essential for engineering effective gene drive systems. This review summarizes our current knowledge of drive resistance in both natural and synthetic gene drives. We explore how insights from naturally occurring and synthetic drive systems can be integrated to improve the design of gene drives, better predict the outcome of releases and understand genomic conflict in general."
-abstract_short = ""
+abstract_short = "This review summarizes our current understanding of the evolution of resistance to naturally-occurring and synthetically-created gene drives. We explore how insights from earlier work might help us deelop evolution-proof gene drives, better predict the outcome of gene drive releases, and understand genomic conflict in general."
 
 # Featured image thumbnail (optional)
 image_preview = ""
