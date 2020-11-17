@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-    "For his MSc thesis Tom used experiments with _Drosophila_ to test whether the effects of mitochondrial DNA on males are truly invisible to selection (spoiler: not if there's kin selection!). Tom is currently writing up his MSc work, and is about to start his PhD."
+    "For his MSc thesis Tom used experiments with _Drosophila_ to test whether the effects of mitochondrial DNA on males are truly invisible to selection (spoiler: not if there's kin selection!). Tom is currently working towards his PhD and has several exciting projects underway on the theme of sexual selection and population fitness."
 ]
 
 # Organizational groups that you belong to (for People widget)
