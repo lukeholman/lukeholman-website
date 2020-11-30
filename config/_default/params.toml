@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "luke.holman@unimelb.edu.au"
-phone = "+61 (0) 3834 45857"
-address = "BioSciences 4 building, School of BioSciences, University of Melbourne, Royal Parade, Parkville, VIC 3010, Australia"
+email = "lukeholman@gmail.com"
+phone = ""
+address = "School of Applied Sciences, Edinburgh Napier University, Sighthill Campus, Sighthill Court, Edinburgh, EH11 4BN, UK."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -87,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "-37.797197"
-longitude = "144.959005"
+latitude = "55.926221"
+longitude = "-3.289270"
 zoom = 15
 
 ############################
