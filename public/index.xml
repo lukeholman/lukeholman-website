@@ -5,8 +5,17 @@
     <description>Recent content in Luke Holman on Luke Holman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 16:04:59 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 16:04:59 +1000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Male‐biased sexual selection, but not sexual dichromatism, predicts speciation in birds</title>
+      <link>https://www.lukeholman.org/publication/justin_phylo/</link>
+      <pubDate>Mon, 01 Mar 2021 16:04:59 +1000</pubDate>
+      
+      <guid>https://www.lukeholman.org/publication/justin_phylo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social immunity and chemical communication in the honeybee: immune-challenged bees enter enforced or self-imposed exile</title>
@@ -149,16 +158,6 @@
 &lt;p&gt;Recently, it has become possible to artificially create gene drives using genome editing technologies such as CRISPR-Cas9. These artificial drives could be used in the near future to genetically engineer or eradicate populations of wild organisms (e.g. to prevent the spread of malaria). However, gene drive research still has many hurdles &amp;ndash; technological, regulatory, and ethical &amp;ndash; to overcome. Aside from the challenging lab work needed to build a functional gene drive, many issues remain unresolved. Will populations evolve resistance to gene drives, or will they spread indefinitely? Can we make truly safe and self-limiting genes, which will remain restricted to the release site or go extinct once their job is done? What is the optimal design for a gene drive for each of the applications that they could help with?&lt;/p&gt;
 
 &lt;p&gt;I have been fascinated by gene drives ever since I first read about them in &lt;em&gt;The Selfish Gene&lt;/em&gt; as a teenager. I intermittently write models and reviews about them, and I am currently working on the naturally-occurring gene drive &lt;em&gt;Segregation distorter&lt;/em&gt; in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Intralocus sexual conflict</title>
-      <link>https://www.lukeholman.org/project/intralocus_conflict/</link>
-      <pubDate>Mon, 27 Aug 2018 17:38:27 +1000</pubDate>
-      
-      <guid>https://www.lukeholman.org/project/intralocus_conflict/</guid>
-      <description>&lt;p&gt;Intralocus sexual conflict occurs when different trait values are favoured by selection on males versus females, but each sex is constrained from evolving towards its own phenotypic optimum by genetic correlations between male and female traits. For example, the selectively optimum body size is often different between the sexes, yet male and female body size are largely affected by the same loci, meaning that the sexes evolve to some sort of maladaptive compromise (creating the so-called &amp;lsquo;gender load&amp;rsquo;). Intralocus sexual conflict is a fascinating process with many improlications for conservation biology, as well as many of the big questions in evolutionary biology (such as the evolution of sex problem and the lek paradox).&lt;/p&gt;
 </description>
     </item>
     

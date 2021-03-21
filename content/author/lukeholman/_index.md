@@ -69,7 +69,7 @@ user_groups = ""
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:lukeholman@gmail.com"
+  link = "mailto:l.holman@napier.ac.uk"
 
 [[social]]
   icon = "twitter"

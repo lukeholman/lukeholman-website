@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lukeholman@gmail.com"
+email = "l.holman@napier.ac.uk"
 phone = ""
 address = "School of Applied Sciences, Edinburgh Napier University, Sighthill Campus, Sighthill Court, Edinburgh, EH11 4BN, UK."
 
